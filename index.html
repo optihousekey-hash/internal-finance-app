@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Внутрішній облік</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+  <div class="container">
+    <h1>Внутрішній облік доходів і витрат</h1>
+
+    <!-- Секція для авторизації -->
+    <section id="auth-section" class="card">
+      <h2>Вхід</h2>
+      <input type="email" id="email" placeholder="Email" />
+      <input type="password" id="password" placeholder="Пароль" />
+      <div class="actions">
+        <button id="loginBtn">Увійти</button>
+        <button id="logoutBtn" class="secondary">Вийти</button>
+      </div>
+      <p id="authStatus"></p>
+    </section>
+
+    <!-- Основна секція для додавання операцій і перегляду списку -->
+    <section id="app-section" class="hidden">
+      <div class="grid">
+        <div class="card">
+          <h2>Додати операцію</h2>
+          <input type="date" id="date" />
+          <select id="type">
+            <option value="income">Дохід</option>
+            <option value="expense">Витрата</option>
+          </select>
+          <input type="text" id="category" placeholder="Категорія" />
+          <input type="number" id="amount" placeholder="Сума" step="0.01" />
+          <textarea id="comment" placeholder="Коментар"></textarea>
+          <button id="addBtn">Зберегти</button>
+        </div>
+        <div class="card">
+          <h2>Підсумок за місяць</h2>
+          <p>Дохід: <strong id="incomeTotal">0</strong></p>
+          <p>Витрати: <strong id="expenseTotal">0</strong></p>
+          <p>Баланс: <strong id="balanceTotal">0</strong></p>
+        </div>
+      </div>
+      <section class="card">
+        <h2>Операції</h2>
+        <div class="filters">
+          <input type="month" id="monthFilter" />
+          <button id="refreshBtn" class="secondary">Оновити</button>
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th>Дата</th>
+              <th>Тип</th>
+              <th>Категорія</th>
+              <th>Сума</th>
+              <th>Коментар</th>
+            </tr>
+          </thead>
+          <tbody id="transactionsBody"></tbody>
+        </table>
+      </section>
+    </section>
+  </div>
+  <!-- Підключення бібліотеки Supabase і основного скрипта -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="app.js"></script>
+</body>
+</html>
