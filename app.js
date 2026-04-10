@@ -2,7 +2,7 @@
 // Замініть ці значення на ваші власні Project URL та anon key з Supabase Dashboard
 // Додайте адресу Project URL та Publishable (anon) API key, які надав користувач.
 const SUPABASE_URL = "https://zryepygqtnzgbdkwupjh.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_Silh-Z2iKfU0BIbNScjXjw_bIZvhDe5";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpyeWVweXFxdG56Z2Jka3d1cGpoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU3NTM2NzMsImV4cCI6MjA5MTMyOTY3M30.eTaJCTmg6godzczI1L38MM7B-jfXl4jC9AgTk3wnWsQ";
 
 // Ініціалізація клієнта Supabase
 const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
