@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Фінансовий облік</title>
+  <!-- Підключення стилів -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Фінансовий облік</h1>
+
+    <!-- Форма для додавання нової операції -->
+    <section class="card">
+      <h2>Додати операцію</h2>
+      <input type="date" id="date" />
+      <input type="text" id="person" placeholder="Хто заповнив" />
+      <select id="type">
+        <option value="income">Дохід</option>
+        <option value="expense">Витрата</option>
+      </select>
+      <input type="text" id="category" placeholder="Категорія" />
+      <input type="number" id="amount" placeholder="Сума" step="0.01" />
+      <textarea id="comment" placeholder="Коментар"></textarea>
+      <button id="addBtn">Зберегти</button>
+    </section>
+
+    <!-- Підсумкові показники -->
+    <div class="grid">
+      <!-- Загальний підсумок -->
+      <div class="card">
+        <h2>Підсумок за весь період</h2>
+        <p>Дохід: <strong id="totalIncome">0</strong></p>
+        <p>Витрати: <strong id="totalExpense">0</strong></p>
+        <p>Баланс: <strong id="totalBalance">0</strong></p>
+      </div>
+
+      <!-- Підсумок за обраний місяць -->
+      <div class="card">
+        <h2>Підсумок за місяць</h2>
+        <input type="month" id="monthFilter" />
+        <p>Дохід: <strong id="monthIncome">0</strong></p>
+        <p>Витрати: <strong id="monthExpense">0</strong></p>
+        <p>Баланс: <strong id="monthBalance">0</strong></p>
+      </div>
+    </div>
+
+    <!-- Таблиця операцій -->
+    <section class="card">
+      <h2>Операції</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Дата</th>
+            <th>Хто</th>
+            <th>Тип</th>
+            <th>Категорія</th>
+            <th>Сума</th>
+            <th>Коментар</th>
+            <th>Дія</th>
+          </tr>
+        </thead>
+        <tbody id="transactionsBody"></tbody>
+      </table>
+    </section>
+  </div>
+
+  <!-- Скрипт для роботи додатку -->
+  <script src="app.js"></script>
+</body>
+</html>
