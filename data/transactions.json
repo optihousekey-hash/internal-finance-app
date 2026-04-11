@@ -76,5 +76,18 @@
     "transferFrom": "optihouse",
     "transferTo": "katya",
     "createdAt": "2026-04-11T16:35:03.670Z"
+  },
+  {
+    "id": "1775925425409",
+    "date": "2026-03-10",
+    "person": "Катя",
+    "type": "income",
+    "category": "оплата за проєктування",
+    "amount": 15000,
+    "comment": "Богдан Хруст",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:37:05.409Z"
   }
 ]
