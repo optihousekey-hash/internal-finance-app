@@ -10,8 +10,26 @@
   <div class="container">
     <header class="page-header">
       <h1>Фінансовий облік</h1>
-      <p class="subtitle">Доходи, витрати, аналітика за період і фільтр по категорії</p>
+      <p class="subtitle">Доходи, витрати, перекази між балансами, фільтр за періодом і категорією</p>
     </header>
+
+    <section class="card">
+      <h2>Поточні баланси</h2>
+      <div class="summary-grid">
+        <div class="summary-box balance-box">
+          <div class="summary-title">Баланс ОптіХаус</div>
+          <div class="summary-value" id="balanceOptihouse">0.00</div>
+        </div>
+        <div class="summary-box income-box">
+          <div class="summary-title">Баланс Люди</div>
+          <div class="summary-value" id="balanceLiuda">0.00</div>
+        </div>
+        <div class="summary-box expense-box">
+          <div class="summary-title">Баланс Каті</div>
+          <div class="summary-value" id="balanceKatya">0.00</div>
+        </div>
+      </div>
+    </section>
 
     <section class="card">
       <h2>Додати операцію</h2>
@@ -28,16 +46,17 @@
         </div>
 
         <div>
-          <label for="type">Тип</label>
-          <select id="type">
+          <label for="operationType">Тип операції</label>
+          <select id="operationType">
             <option value="income">Дохід</option>
             <option value="expense">Витрата</option>
+            <option value="transfer">Переказ між балансами</option>
           </select>
         </div>
 
         <div>
           <label for="category">Категорія</label>
-          <input type="text" id="category" placeholder="Наприклад: Матеріали" />
+          <input type="text" id="category" placeholder="Наприклад: Зарплата / Реклама / Матеріали" />
         </div>
 
         <div>
@@ -48,6 +67,37 @@
         <div>
           <label for="comment">Коментар</label>
           <input type="text" id="comment" placeholder="Короткий опис" />
+        </div>
+      </div>
+
+      <div class="form-grid top-space" id="incomeExpenseFields">
+        <div>
+          <label for="balanceTarget">Баланс</label>
+          <select id="balanceTarget">
+            <option value="optihouse">ОптіХаус</option>
+            <option value="liuda">Люда</option>
+            <option value="katya">Катя</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-grid top-space hidden" id="transferFields">
+        <div>
+          <label for="transferFrom">З якого балансу</label>
+          <select id="transferFrom">
+            <option value="optihouse">ОптіХаус</option>
+            <option value="liuda">Люда</option>
+            <option value="katya">Катя</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="transferTo">На який баланс</label>
+          <select id="transferTo">
+            <option value="optihouse">ОптіХаус</option>
+            <option value="liuda">Люда</option>
+            <option value="katya">Катя</option>
+          </select>
         </div>
       </div>
 
@@ -85,6 +135,17 @@
             <option value="">Усе</option>
             <option value="income">Тільки доходи</option>
             <option value="expense">Тільки витрати</option>
+            <option value="transfer">Тільки перекази</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="balanceFilter">Баланс</label>
+          <select id="balanceFilter">
+            <option value="">Усі баланси</option>
+            <option value="optihouse">ОптіХаус</option>
+            <option value="liuda">Люда</option>
+            <option value="katya">Катя</option>
           </select>
         </div>
       </div>
@@ -111,17 +172,6 @@
           <div class="summary-value" id="summaryBalance">0.00</div>
         </div>
       </div>
-
-      <div class="split-grid">
-        <div class="mini-card">
-          <h3>Окремо: доходи</h3>
-          <div id="incomeList" class="mini-list"></div>
-        </div>
-        <div class="mini-card">
-          <h3>Окремо: витрати</h3>
-          <div id="expenseList" class="mini-list"></div>
-        </div>
-      </div>
     </section>
 
     <section class="card">
@@ -132,9 +182,10 @@
           <thead>
             <tr>
               <th>Дата</th>
-              <th>Хто</th>
+              <th>Хто заповнив</th>
               <th>Тип</th>
               <th>Категорія</th>
+              <th>Баланс / Напрямок</th>
               <th>Сума</th>
               <th>Коментар</th>
               <th>Дія</th>
