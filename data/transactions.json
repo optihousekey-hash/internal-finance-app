@@ -297,5 +297,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:04:44.679Z"
+  },
+  {
+    "id": "1775927120843",
+    "date": "2026-03-31",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Діма Ставка Бронь",
+    "amount": 2500,
+    "comment": "у Васі на рах",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T17:05:20.843Z"
   }
 ]
