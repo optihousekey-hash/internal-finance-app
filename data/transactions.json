@@ -304,7 +304,7 @@
     "person": "Катя",
     "type": "expense",
     "category": "Діма Ставка Бронь",
-    "amount": 2500,
+    "amount": 25000,
     "comment": "у Васі на рах",
     "balanceTarget": "optihouse",
     "transferFrom": null,
