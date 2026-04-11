@@ -50,5 +50,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:31:51.306Z"
+  },
+  {
+    "id": "1775925256352",
+    "date": "2026-03-13",
+    "person": "Катя",
+    "type": "transfer",
+    "category": "Зарплата з проєктів",
+    "amount": 2000,
+    "comment": "отримання доходу",
+    "balanceTarget": null,
+    "transferFrom": "optihouse",
+    "transferTo": "liuda",
+    "createdAt": "2026-04-11T16:34:16.352Z"
   }
 ]
