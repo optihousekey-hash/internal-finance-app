@@ -271,5 +271,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:00:53.797Z"
+  },
+  {
+    "id": "1775926956879",
+    "date": "2026-04-11",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Витрати на бізнес",
+    "amount": 71316,
+    "comment": "з грудня по березень",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T17:02:36.879Z"
   }
 ]
