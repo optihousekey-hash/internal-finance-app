@@ -115,5 +115,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:39:42.809Z"
+  },
+  {
+    "id": "1775925678341",
+    "date": "2026-03-19",
+    "person": "Катя",
+    "type": "income",
+    "category": "оплата за проєктування",
+    "amount": 15000,
+    "comment": "Микола Твердун",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:41:18.341Z"
   }
 ]
