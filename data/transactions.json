@@ -167,5 +167,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:45:02.415Z"
+  },
+  {
+    "id": "1775925986688",
+    "date": "2026-03-23",
+    "person": "Катя",
+    "type": "income",
+    "category": "геодезія та документи",
+    "amount": 15000,
+    "comment": "Тетяна та Дмитро",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:46:26.688Z"
   }
 ]
