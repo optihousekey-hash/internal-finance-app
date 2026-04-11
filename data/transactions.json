@@ -128,5 +128,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:41:18.341Z"
+  },
+  {
+    "id": "1775925740608",
+    "date": "2026-03-27",
+    "person": "Катя",
+    "type": "income",
+    "category": "оплата за проєктування",
+    "amount": 15000,
+    "comment": "Максим Кучерук",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:42:20.608Z"
   }
 ]
