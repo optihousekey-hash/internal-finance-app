@@ -154,5 +154,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:44:15.506Z"
+  },
+  {
+    "id": "1775925902415",
+    "date": "2026-03-27",
+    "person": "Катя",
+    "type": "income",
+    "category": "геодезія і геологія",
+    "amount": 8000,
+    "comment": "Кучерук Максим",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:45:02.415Z"
   }
 ]
