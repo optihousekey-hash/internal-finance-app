@@ -219,5 +219,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:49:49.965Z"
+  },
+  {
+    "id": "1775926393293",
+    "date": "2026-04-07",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люба",
+    "amount": 22500,
+    "comment": "за проєкт Тетяна Дендропарк і Дмитро",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:53:13.293Z"
   }
 ]
