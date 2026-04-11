@@ -141,5 +141,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:42:20.608Z"
+  },
+  {
+    "id": "1775925855506",
+    "date": "2026-03-26",
+    "person": "Катя",
+    "type": "income",
+    "category": "оплата за проєктування",
+    "amount": 15000,
+    "comment": "Олександр Лісові Гринівці (карта Люди)",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:44:15.506Z"
   }
 ]
