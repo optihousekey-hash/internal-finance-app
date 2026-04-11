@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "1775924587478",
+    "date": "2026-03-28",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Реклама за листопад-березень",
+    "amount": 48165.75,
+    "comment": "загальна сума витрат по рекламі від листопада до 28.03",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:23:07.478Z"
+  }
+]
