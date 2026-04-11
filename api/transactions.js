@@ -166,6 +166,102 @@ export default async function handler(req, res) {
       });
     }
 
+    if (req.method === "PUT") {
+      const {
+        id,
+        date,
+        person,
+        type,
+        category,
+        amount,
+        comment,
+        balanceTarget,
+        transferFrom,
+        transferTo
+      } = req.body || {};
+
+      if (!id) {
+        return res.status(400).json({
+          error: "Потрібен id для оновлення."
+        });
+      }
+
+      if (!date || !person || !type || !category || amount === undefined || amount === null) {
+        return res.status(400).json({
+          error: "Обов’язкові поля: date, person, type, category, amount."
+        });
+      }
+
+      if (!["income", "expense", "transfer"].includes(type)) {
+        return res.status(400).json({
+          error: "type має бути income, expense або transfer."
+        });
+      }
+
+      const numericAmount = Number(amount);
+      if (Number.isNaN(numericAmount) || numericAmount <= 0) {
+        return res.status(400).json({
+          error: "amount має бути числом більше 0."
+        });
+      }
+
+      if ((type === "income" || type === "expense") && !balanceTarget) {
+        return res.status(400).json({
+          error: "Для income/expense потрібно вказати balanceTarget."
+        });
+      }
+
+      if (type === "transfer") {
+        if (!transferFrom || !transferTo) {
+          return res.status(400).json({
+            error: "Для transfer потрібно вказати transferFrom і transferTo."
+          });
+        }
+
+        if (transferFrom === transferTo) {
+          return res.status(400).json({
+            error: "Баланс відправки і баланс отримання не можуть бути однакові."
+          });
+        }
+      }
+
+      const file = await getFileFromGitHub();
+      const existing = file.content.find((item) => item.id === id);
+
+      if (!existing) {
+        return res.status(404).json({
+          error: "Операцію не знайдено."
+        });
+      }
+
+      const updatedItems = file.content.map((item) => {
+        if (item.id !== id) return item;
+
+        return {
+          ...item,
+          date,
+          person: String(person).trim(),
+          type,
+          category: String(category).trim(),
+          amount: numericAmount,
+          comment: String(comment || "").trim(),
+          balanceTarget: balanceTarget || null,
+          transferFrom: transferFrom || null,
+          transferTo: transferTo || null
+        };
+      });
+
+      await saveFileToGitHub(
+        updatedItems,
+        file.sha,
+        `Update transaction ${id}`
+      );
+
+      return res.status(200).json({
+        success: true
+      });
+    }
+
     if (req.method === "DELETE") {
       const { id } = req.body || {};
 
