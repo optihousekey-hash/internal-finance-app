@@ -91,7 +91,10 @@ export default async function handler(req, res) {
         type,
         category,
         amount,
-        comment
+        comment,
+        balanceTarget,
+        transferFrom,
+        transferTo
       } = req.body || {};
 
       if (!date || !person || !type || !category || amount === undefined || amount === null) {
@@ -100,9 +103,9 @@ export default async function handler(req, res) {
         });
       }
 
-      if (!["income", "expense"].includes(type)) {
+      if (!["income", "expense", "transfer"].includes(type)) {
         return res.status(400).json({
-          error: "type має бути income або expense."
+          error: "type має бути income, expense або transfer."
         });
       }
 
@@ -111,6 +114,26 @@ export default async function handler(req, res) {
         return res.status(400).json({
           error: "amount має бути числом більше 0."
         });
+      }
+
+      if ((type === "income" || type === "expense") && !balanceTarget) {
+        return res.status(400).json({
+          error: "Для income/expense потрібно вказати balanceTarget."
+        });
+      }
+
+      if (type === "transfer") {
+        if (!transferFrom || !transferTo) {
+          return res.status(400).json({
+            error: "Для transfer потрібно вказати transferFrom і transferTo."
+          });
+        }
+
+        if (transferFrom === transferTo) {
+          return res.status(400).json({
+            error: "Баланс відправки і баланс отримання не можуть бути однакові."
+          });
+        }
       }
 
       const file = await getFileFromGitHub();
@@ -123,6 +146,9 @@ export default async function handler(req, res) {
         category: String(category).trim(),
         amount: numericAmount,
         comment: String(comment || "").trim(),
+        balanceTarget: balanceTarget || null,
+        transferFrom: transferFrom || null,
+        transferTo: transferTo || null,
         createdAt: new Date().toISOString()
       };
 
