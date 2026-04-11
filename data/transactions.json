@@ -102,5 +102,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:38:49.459Z"
+  },
+  {
+    "id": "1775925582809",
+    "date": "2026-03-16",
+    "person": "Катя",
+    "type": "income",
+    "category": "оплата за проєктування",
+    "amount": 1000,
+    "comment": "татарів Віктор",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:39:42.809Z"
   }
 ]
