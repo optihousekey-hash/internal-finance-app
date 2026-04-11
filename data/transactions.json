@@ -401,5 +401,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:14:22.808Z"
+  },
+  {
+    "id": "1775927848137",
+    "date": "2026-04-11",
+    "person": "Катя",
+    "type": "income",
+    "category": "відкат за атоматичну систему за опалубку",
+    "amount": 3588,
+    "comment": "залишок з відкату після погашення витрат",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T17:17:28.137Z"
   }
 ]
