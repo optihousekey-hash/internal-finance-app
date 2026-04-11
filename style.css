@@ -39,6 +39,14 @@ body {
   gap: 16px;
 }
 
+.top-space {
+  margin-top: 16px;
+}
+
+.hidden {
+  display: none;
+}
+
 label {
   display: block;
   margin-bottom: 8px;
@@ -121,41 +129,6 @@ button.secondary {
   font-weight: 700;
 }
 
-.split-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 16px;
-  margin-top: 20px;
-}
-
-.mini-card {
-  background: #f9fafb;
-  border: 1px solid #e5e7eb;
-  border-radius: 14px;
-  padding: 16px;
-}
-
-.mini-card h3 {
-  margin-top: 0;
-  margin-bottom: 12px;
-}
-
-.mini-list {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-
-.mini-item {
-  display: flex;
-  justify-content: space-between;
-  gap: 12px;
-  padding: 10px 12px;
-  border-radius: 10px;
-  background: #ffffff;
-  border: 1px solid #e5e7eb;
-}
-
 .table-wrap {
   overflow-x: auto;
 }
@@ -183,6 +156,11 @@ td {
   font-weight: 700;
 }
 
+.type-transfer {
+  color: #1d4ed8;
+  font-weight: 700;
+}
+
 .delete-btn {
   background: #b91c1c;
   color: #ffffff;
@@ -195,8 +173,7 @@ td {
 @media (max-width: 900px) {
   .form-grid,
   .filters-grid,
-  .summary-grid,
-  .split-grid {
+  .summary-grid {
     grid-template-columns: 1fr;
   }
 
