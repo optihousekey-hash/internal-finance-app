@@ -362,5 +362,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:10:03.727Z"
+  },
+  {
+    "id": "1775927537039",
+    "date": "2026-03-28",
+    "person": "Катя",
+    "type": "income",
+    "category": "Від Каті папи за вікна",
+    "amount": 7200,
+    "comment": "витратила на вивіски",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T17:12:17.039Z"
   }
 ]
