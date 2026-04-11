@@ -34,6 +34,7 @@ const balanceKatyaEl = document.getElementById("balanceKatya");
 const transactionsBody = document.getElementById("transactionsBody");
 
 let allTransactions = [];
+let editingId = null;
 
 const BALANCE_LABELS = {
   optihouse: "ОптіХаус",
@@ -56,7 +57,7 @@ dateFromEl.value = firstDayOfMonthString();
 dateToEl.value = todayString();
 
 operationTypeEl.addEventListener("change", toggleOperationFields);
-addBtn.addEventListener("click", addTransaction);
+addBtn.addEventListener("click", saveTransaction);
 applyFiltersBtn.addEventListener("click", renderFilteredData);
 resetFiltersBtn.addEventListener("click", resetFilters);
 reloadBtn.addEventListener("click", loadTransactions);
@@ -71,6 +72,21 @@ function toggleOperationFields() {
     incomeExpenseFieldsEl.classList.remove("hidden");
     transferFieldsEl.classList.add("hidden");
   }
+}
+
+function clearForm() {
+  editingId = null;
+  dateEl.value = todayString();
+  personEl.value = "";
+  operationTypeEl.value = "income";
+  categoryEl.value = "";
+  amountEl.value = "";
+  commentEl.value = "";
+  balanceTargetEl.value = "optihouse";
+  transferFromEl.value = "optihouse";
+  transferToEl.value = "liuda";
+  addBtn.textContent = "Зберегти операцію";
+  toggleOperationFields();
 }
 
 async function apiRequest(url, options = {}) {
@@ -104,59 +120,91 @@ async function loadTransactions() {
   }
 }
 
-async function addTransaction() {
+function buildPayloadFromForm() {
+  const operationType = operationTypeEl.value;
+
+  const payload = {
+    date: dateEl.value,
+    person: personEl.value.trim(),
+    type: operationType,
+    category: categoryEl.value.trim(),
+    amount: Number(amountEl.value),
+    comment: commentEl.value.trim(),
+    balanceTarget: null,
+    transferFrom: null,
+    transferTo: null
+  };
+
+  if (!payload.date || !payload.person || !payload.category || !payload.amount) {
+    throw new Error("Заповніть дату, хто заповнив, категорію та суму.");
+  }
+
+  if (operationType === "income" || operationType === "expense") {
+    payload.balanceTarget = balanceTargetEl.value;
+  }
+
+  if (operationType === "transfer") {
+    const from = transferFromEl.value;
+    const to = transferToEl.value;
+
+    if (from === to) {
+      throw new Error("Для переказу баланси мають бути різні.");
+    }
+
+    payload.transferFrom = from;
+    payload.transferTo = to;
+  }
+
+  return payload;
+}
+
+async function saveTransaction() {
   try {
-    const operationType = operationTypeEl.value;
-    const basePayload = {
-      date: dateEl.value,
-      person: personEl.value.trim(),
-      type: operationType,
-      category: categoryEl.value.trim(),
-      amount: Number(amountEl.value),
-      comment: commentEl.value.trim()
-    };
+    const payload = buildPayloadFromForm();
+    formMessageEl.textContent = editingId ? "Оновлення..." : "Збереження...";
 
-    if (!basePayload.date || !basePayload.person || !basePayload.category || !basePayload.amount) {
-      formMessageEl.textContent = "Заповніть дату, хто заповнив, категорію та суму.";
-      return;
+    if (editingId) {
+      await apiRequest("/api/transactions", {
+        method: "PUT",
+        body: JSON.stringify({
+          id: editingId,
+          ...payload
+        })
+      });
+      formMessageEl.textContent = "Операцію оновлено.";
+    } else {
+      await apiRequest("/api/transactions", {
+        method: "POST",
+        body: JSON.stringify(payload)
+      });
+      formMessageEl.textContent = "Операцію збережено.";
     }
 
-    let payload = { ...basePayload };
-
-    if (operationType === "income" || operationType === "expense") {
-      payload.balanceTarget = balanceTargetEl.value;
-    }
-
-    if (operationType === "transfer") {
-      const from = transferFromEl.value;
-      const to = transferToEl.value;
-
-      if (from === to) {
-        formMessageEl.textContent = "Для переказу баланси мають бути різні.";
-        return;
-      }
-
-      payload.transferFrom = from;
-      payload.transferTo = to;
-    }
-
-    formMessageEl.textContent = "Збереження...";
-
-    await apiRequest("/api/transactions", {
-      method: "POST",
-      body: JSON.stringify(payload)
-    });
-
-    personEl.value = "";
-    categoryEl.value = "";
-    amountEl.value = "";
-    commentEl.value = "";
-
+    clearForm();
     await loadTransactions();
-    formMessageEl.textContent = "Операцію збережено.";
   } catch (error) {
     formMessageEl.textContent = error.message;
   }
+}
+
+function startEditTransaction(id) {
+  const item = allTransactions.find((x) => x.id === id);
+  if (!item) return;
+
+  editingId = item.id;
+  dateEl.value = item.date || todayString();
+  personEl.value = item.person || "";
+  operationTypeEl.value = item.type || "income";
+  categoryEl.value = item.category || "";
+  amountEl.value = item.amount || "";
+  commentEl.value = item.comment || "";
+  balanceTargetEl.value = item.balanceTarget || "optihouse";
+  transferFromEl.value = item.transferFrom || "optihouse";
+  transferToEl.value = item.transferTo || "liuda";
+
+  addBtn.textContent = "Оновити операцію";
+  toggleOperationFields();
+  window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 async function deleteTransaction(id) {
@@ -312,7 +360,10 @@ function renderTable(items) {
           <td>${Number(item.amount).toFixed(2)}</td>
           <td>${item.comment || ""}</td>
           <td>
-            <button class="delete-btn" data-id="${item.id}">Видалити</button>
+            <div style="display:flex;gap:8px;flex-wrap:wrap;">
+              <button class="edit-btn" data-id="${item.id}">Редагувати</button>
+              <button class="delete-btn" data-id="${item.id}">Видалити</button>
+            </div>
           </td>
         </tr>
       `
@@ -326,6 +377,10 @@ function renderTable(items) {
 
   transactionsBody.querySelectorAll(".delete-btn").forEach((btn) => {
     btn.addEventListener("click", () => deleteTransaction(btn.dataset.id));
+  });
+
+  transactionsBody.querySelectorAll(".edit-btn").forEach((btn) => {
+    btn.addEventListener("click", () => startEditTransaction(btn.dataset.id));
   });
 }
 
