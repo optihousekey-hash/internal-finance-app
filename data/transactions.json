@@ -427,5 +427,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:20:52.266Z"
+  },
+  {
+    "id": "1775928084086",
+    "date": "2026-04-07",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Дімі",
+    "amount": 2000,
+    "comment": "аванс за дизайн проєкт Юлія Сеник",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T17:21:24.086Z"
   }
 ]
