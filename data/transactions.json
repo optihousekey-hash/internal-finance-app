@@ -63,5 +63,18 @@
     "transferFrom": "optihouse",
     "transferTo": "liuda",
     "createdAt": "2026-04-11T16:34:16.352Z"
+  },
+  {
+    "id": "1775925303670",
+    "date": "2026-03-13",
+    "person": "Катя",
+    "type": "transfer",
+    "category": "Зарплата з проєктів",
+    "amount": 2000,
+    "comment": "отримання доходу",
+    "balanceTarget": null,
+    "transferFrom": "optihouse",
+    "transferTo": "katya",
+    "createdAt": "2026-04-11T16:35:03.670Z"
   }
 ]
