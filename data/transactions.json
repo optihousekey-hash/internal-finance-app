@@ -388,5 +388,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:13:53.830Z"
+  },
+  {
+    "id": "1775927662808",
+    "date": "2026-04-10",
+    "person": "Катя",
+    "type": "income",
+    "category": "очистка ділянки Присяжний",
+    "amount": 2640,
+    "comment": "отримання зп присяжний",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T17:14:22.808Z"
   }
 ]
