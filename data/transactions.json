@@ -37,5 +37,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T16:30:52.022Z"
+  },
+  {
+    "id": "1775925111306",
+    "date": "2026-02-27",
+    "person": "Катя",
+    "type": "income",
+    "category": "зарплата за Ланівці",
+    "amount": 50000,
+    "comment": "отримання доходу",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T16:31:51.306Z"
   }
 ]
