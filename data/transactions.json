@@ -336,5 +336,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:08:08.725Z"
+  },
+  {
+    "id": "1775927362684",
+    "date": "2026-04-07",
+    "person": "Катя",
+    "type": "income",
+    "category": "Виплата кредиту за техніку",
+    "amount": 1116,
+    "comment": "оплата частинами",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T17:09:22.684Z"
   }
 ]
