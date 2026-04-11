@@ -53,8 +53,8 @@ function firstDayOfMonthString() {
 }
 
 dateEl.value = todayString();
-dateFromEl.value = firstDayOfMonthString();
-dateToEl.value = todayString();
+dateFromEl.value = "";
+dateToEl.value = "";
 
 operationTypeEl.addEventListener("change", toggleOperationFields);
 addBtn.addEventListener("click", saveTransaction);
