@@ -440,5 +440,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:21:24.086Z"
+  },
+  {
+    "id": "1775929595507",
+    "date": "2026-04-02",
+    "person": "Катя",
+    "type": "expense",
+    "category": "за послуги доставки НП меблі та ключі офісу",
+    "amount": 6611,
+    "comment": "витрати за переїзд",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-11T17:46:35.507Z"
   }
 ]
