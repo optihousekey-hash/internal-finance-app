@@ -544,5 +544,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T12:45:54.650Z"
+  },
+  {
+    "id": "1776084427829",
+    "date": "2026-04-10",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Геодезія Максима",
+    "amount": 5000,
+    "comment": "Віддали Сашові з грошей Максима",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T12:47:07.829Z"
   }
 ]
