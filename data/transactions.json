@@ -479,5 +479,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T09:12:46.577Z"
+  },
+  {
+    "id": "1776083437661",
+    "date": "2026-03-31",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Дорога в Татарів",
+    "amount": 1100,
+    "comment": "За ресторан",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T12:30:37.661Z"
   }
 ]
