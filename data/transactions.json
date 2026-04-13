@@ -492,5 +492,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T12:30:37.661Z"
+  },
+  {
+    "id": "1776083791772",
+    "date": "2026-04-03",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Геодезія Саші за роботу",
+    "amount": 3000,
+    "comment": "Денропарк Тетяна з їх 15000 грн",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T12:36:31.772Z"
   }
 ]
