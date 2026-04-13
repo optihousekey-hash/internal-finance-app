@@ -583,5 +583,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T12:53:10.412Z"
+  },
+  {
+    "id": "1776086446807",
+    "date": "2026-04-13",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Повернення коштів Лісові гринівці",
+    "amount": 15000,
+    "comment": "З коштів Олександра",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T13:20:46.807Z"
   }
 ]
