@@ -557,5 +557,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T12:47:07.829Z"
+  },
+  {
+    "id": "1776084622393",
+    "date": "2026-04-10",
+    "person": "Люда",
+    "type": "expense",
+    "category": "За офіс Гречани ,комуналка",
+    "amount": 3500,
+    "comment": "За комунальні",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T12:50:22.393Z"
   }
 ]
