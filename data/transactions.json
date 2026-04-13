@@ -453,5 +453,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-11T17:46:35.507Z"
+  },
+  {
+    "id": "1776062418277",
+    "date": "2026-03-31",
+    "person": "Катя",
+    "type": "expense",
+    "category": "На вивіску",
+    "amount": 3740,
+    "comment": "За вивіски",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T06:40:18.277Z"
   }
 ]
