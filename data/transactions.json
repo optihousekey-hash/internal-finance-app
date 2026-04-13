@@ -466,5 +466,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T06:40:18.277Z"
+  },
+  {
+    "id": "1776071566577",
+    "date": "2026-04-13",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Вивіски",
+    "amount": 4152,
+    "comment": "Доставка вивісок",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T09:12:46.577Z"
   }
 ]
