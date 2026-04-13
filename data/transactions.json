@@ -531,5 +531,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T12:42:37.989Z"
+  },
+  {
+    "id": "1776084354650",
+    "date": "2026-04-08",
+    "person": "Люда",
+    "type": "income",
+    "category": "Відкат за геодезію від Саши за Віталія",
+    "amount": 1000,
+    "comment": "Відали клієнта на геодезію",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T12:45:54.650Z"
   }
 ]
