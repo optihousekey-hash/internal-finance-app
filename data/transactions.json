@@ -505,5 +505,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T12:36:31.772Z"
+  },
+  {
+    "id": "1776084092661",
+    "date": "2026-04-02",
+    "person": "Люда",
+    "type": "income",
+    "category": "Присяжний на геодезію",
+    "amount": 5000,
+    "comment": "Присяжний привіз",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T12:41:32.661Z"
   }
 ]
