@@ -570,5 +570,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T12:50:22.393Z"
+  },
+  {
+    "id": "1776084790412",
+    "date": "2026-04-09",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Заплатили Любі за дозвіл Денропарк",
+    "amount": 7000,
+    "comment": "З грошей Тетяни Дендропарк",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T12:53:10.412Z"
   }
 ]
