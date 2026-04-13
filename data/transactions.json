@@ -596,5 +596,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T13:20:46.807Z"
+  },
+  {
+    "id": "1776088490103",
+    "date": "2026-04-13",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Канцелярія",
+    "amount": 500,
+    "comment": "Бумага і канцелярія",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T13:54:50.103Z"
   }
 ]
