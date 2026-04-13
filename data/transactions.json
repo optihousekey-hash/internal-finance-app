@@ -518,5 +518,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-13T12:41:32.661Z"
+  },
+  {
+    "id": "1776084157989",
+    "date": "2026-04-03",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Саші за геодезію за Присяжного 4000 грн",
+    "amount": 4000,
+    "comment": "Саші за роботу Присяжний",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-13T12:42:37.989Z"
   }
 ]
