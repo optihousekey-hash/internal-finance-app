@@ -635,5 +635,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-14T14:10:50.425Z"
+  },
+  {
+    "id": "1776176126950",
+    "date": "2026-04-14",
+    "person": "Катя",
+    "type": "expense",
+    "category": "витрати",
+    "amount": 6237,
+    "comment": "переказ на Люду",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-14T14:15:26.950Z"
   }
 ]
