@@ -648,5 +648,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-14T20:46:42.709Z"
+  },
+  {
+    "id": "1776250520008",
+    "date": "2026-04-15",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Повернення за проект Микола Миколайович",
+    "amount": 15000,
+    "comment": "Скандал",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-15T10:55:20.008Z"
   }
 ]
