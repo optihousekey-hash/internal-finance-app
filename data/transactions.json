@@ -661,5 +661,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-15T10:55:20.008Z"
+  },
+  {
+    "id": "1776261808742",
+    "date": "2026-04-15",
+    "person": "Катя",
+    "type": "expense",
+    "category": "повернення за проект",
+    "amount": 15000,
+    "comment": "Твердун микола",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-15T14:03:28.742Z"
   }
 ]
