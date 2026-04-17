@@ -752,5 +752,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-17T15:02:32.154Z"
+  },
+  {
+    "id": "1776438174409",
+    "date": "2026-04-17",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з фундаменту перогінка",
+    "amount": 4000,
+    "comment": "Дохід",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-17T15:02:54.409Z"
   }
 ]
