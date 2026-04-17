@@ -700,5 +700,18 @@
     "transferFrom": "optihouse",
     "transferTo": "katya",
     "createdAt": "2026-04-17T07:41:59.467Z"
+  },
+  {
+    "id": "1776413535179",
+    "date": "2026-04-17",
+    "person": "Люда",
+    "type": "income",
+    "category": "Податки за квітень",
+    "amount": 2400,
+    "comment": "Податки за 40000 грн",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-17T08:12:15.179Z"
   }
 ]
