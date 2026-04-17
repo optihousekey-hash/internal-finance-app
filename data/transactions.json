@@ -765,5 +765,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-17T15:02:54.409Z"
+  },
+  {
+    "id": "1776438199121",
+    "date": "2026-04-17",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід перогінка",
+    "amount": 500,
+    "comment": "Дохід",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-17T15:03:19.121Z"
   }
 ]
