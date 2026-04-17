@@ -739,5 +739,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-17T08:25:13.853Z"
+  },
+  {
+    "id": "1776438152154",
+    "date": "2026-04-17",
+    "person": "Катя",
+    "type": "income",
+    "category": "З фундаменту перогінка",
+    "amount": 4000,
+    "comment": "Дохід",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-17T15:02:32.154Z"
   }
 ]
