@@ -726,5 +726,18 @@
     "transferFrom": "optihouse",
     "transferTo": "katya",
     "createdAt": "2026-04-17T08:24:07.792Z"
+  },
+  {
+    "id": "1776414313853",
+    "date": "2026-04-17",
+    "person": "Катя",
+    "type": "expense",
+    "category": "витрати",
+    "amount": 137,
+    "comment": "кава",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-17T08:25:13.853Z"
   }
 ]
