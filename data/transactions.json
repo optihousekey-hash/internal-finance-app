@@ -687,5 +687,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-17T07:35:21.148Z"
+  },
+  {
+    "id": "1776411719467",
+    "date": "2026-04-17",
+    "person": "катя",
+    "type": "transfer",
+    "category": "за рекламу",
+    "amount": 5000,
+    "comment": "",
+    "balanceTarget": null,
+    "transferFrom": "optihouse",
+    "transferTo": "katya",
+    "createdAt": "2026-04-17T07:41:59.467Z"
   }
 ]
