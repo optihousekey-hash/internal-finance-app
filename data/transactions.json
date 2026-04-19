@@ -804,5 +804,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-19T19:25:46.419Z"
+  },
+  {
+    "id": "1776626896271",
+    "date": "2026-04-19",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Платіж за диван",
+    "amount": 1428.17,
+    "comment": "Оплата частинами",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-19T19:28:16.271Z"
   }
 ]
