@@ -791,5 +791,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-18T05:59:14.454Z"
+  },
+  {
+    "id": "1776626746419",
+    "date": "2026-04-02",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Витрати на меблювання офісу",
+    "amount": 2912,
+    "comment": "На люстру",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-19T19:25:46.419Z"
   }
 ]
