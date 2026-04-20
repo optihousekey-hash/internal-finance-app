@@ -817,5 +817,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-19T19:28:16.271Z"
+  },
+  {
+    "id": "1776668335863",
+    "date": "2026-04-20",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Телефон",
+    "amount": 300,
+    "comment": "З мого рахунку",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-20T06:58:55.863Z"
   }
 ]
