@@ -830,5 +830,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-20T06:58:55.863Z"
+  },
+  {
+    "id": "1776685426952",
+    "date": "2026-04-20",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата за меблі доставка",
+    "amount": 5740,
+    "comment": "Нова пошта",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-20T11:43:46.952Z"
   }
 ]
