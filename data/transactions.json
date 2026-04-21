@@ -869,5 +869,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-20T16:10:38.123Z"
+  },
+  {
+    "id": "1776759089062",
+    "date": "2026-04-21",
+    "person": "Люда",
+    "type": "expense",
+    "category": "За інтернет підключення роутера",
+    "amount": 400,
+    "comment": "Роутер",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-21T08:11:29.062Z"
   }
 ]
