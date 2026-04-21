@@ -908,5 +908,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-21T11:04:20.337Z"
+  },
+  {
+    "id": "1776769535261",
+    "date": "2026-04-21",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Любі за Теофіполь",
+    "amount": 20000,
+    "comment": "Зарплата",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-21T11:05:35.261Z"
   }
 ]
