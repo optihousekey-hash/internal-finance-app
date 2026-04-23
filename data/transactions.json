@@ -934,5 +934,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-23T10:57:55.473Z"
+  },
+  {
+    "id": "1776942428378",
+    "date": "2026-04-23",
+    "person": "Люда",
+    "type": "expense",
+    "category": "День народження Люби",
+    "amount": 1000,
+    "comment": "Подарунок",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-23T11:07:08.378Z"
   }
 ]
