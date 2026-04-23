@@ -960,5 +960,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-23T11:11:57.975Z"
+  },
+  {
+    "id": "1776974719586",
+    "date": "2026-04-23",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата 50% за геологію Саші",
+    "amount": 3500,
+    "comment": "З карти ,докинув Максим",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-23T20:05:19.586Z"
   }
 ]
