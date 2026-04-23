@@ -947,5 +947,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-23T11:07:08.378Z"
+  },
+  {
+    "id": "1776942717975",
+    "date": "2026-04-23",
+    "person": "Люда",
+    "type": "income",
+    "category": "Кучерук за геологію",
+    "amount": 3000,
+    "comment": "На карту люді",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-23T11:11:57.975Z"
   }
 ]
