@@ -999,5 +999,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-24T12:51:13.305Z"
+  },
+  {
+    "id": "1777055253660",
+    "date": "2026-04-24",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Аванс Дані",
+    "amount": 2000,
+    "comment": "Аванс за проект",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-24T18:27:33.660Z"
   }
 ]
