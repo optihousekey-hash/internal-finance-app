@@ -973,5 +973,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-23T20:05:19.586Z"
+  },
+  {
+    "id": "1777002864621",
+    "date": "2026-04-24",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Кредит рецепція",
+    "amount": 5600,
+    "comment": "З комісією банку",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-24T03:54:24.621Z"
   }
 ]
