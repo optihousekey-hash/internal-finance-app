@@ -1051,5 +1051,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-27T07:24:18.959Z"
+  },
+  {
+    "id": "1777274903443",
+    "date": "2026-04-27",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Діми бронь",
+    "amount": 18300,
+    "comment": "За бронь",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-27T07:28:23.443Z"
   }
 ]
