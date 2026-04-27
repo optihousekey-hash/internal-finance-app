@@ -1064,5 +1064,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-27T07:28:23.443Z"
+  },
+  {
+    "id": "1777290785695",
+    "date": "2026-04-27",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Вода,чай",
+    "amount": 250,
+    "comment": "Офісні витрати",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-27T11:53:05.695Z"
   }
 ]
