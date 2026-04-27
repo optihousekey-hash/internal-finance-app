@@ -1038,5 +1038,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-27T07:23:39.739Z"
+  },
+  {
+    "id": "1777274658959",
+    "date": "2026-04-27",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдан",
+    "amount": 4000,
+    "comment": "Зп",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-27T07:24:18.959Z"
   }
 ]
