@@ -1090,5 +1090,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-27T11:54:04.480Z"
+  },
+  {
+    "id": "1777290917118",
+    "date": "2026-04-27",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Аванс Дані",
+    "amount": 4000,
+    "comment": "Аванс Дані з проекту Кизима",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-27T11:55:17.118Z"
   }
 ]
