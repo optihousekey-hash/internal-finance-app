@@ -1025,5 +1025,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-25T20:54:02.885Z"
+  },
+  {
+    "id": "1777274619739",
+    "date": "2026-04-27",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдан",
+    "amount": 1000,
+    "comment": "Зп",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-27T07:23:39.739Z"
   }
 ]
