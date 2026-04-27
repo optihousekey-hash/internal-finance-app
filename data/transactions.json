@@ -1077,5 +1077,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-27T11:53:05.695Z"
+  },
+  {
+    "id": "1777290844480",
+    "date": "2026-04-27",
+    "person": "Люда",
+    "type": "income",
+    "category": "Оплата за проект Кизима",
+    "amount": 20000,
+    "comment": "Оплата за проект",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-27T11:54:04.480Z"
   }
 ]
