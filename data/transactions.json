@@ -1103,5 +1103,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-04-27T11:55:17.118Z"
+  },
+  {
+    "id": "1777357411695",
+    "date": "2026-04-28",
+    "person": "Катя",
+    "type": "income",
+    "category": "Кредит",
+    "amount": 2170,
+    "comment": "Оплата частинами",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-04-28T06:23:31.695Z"
   }
 ]
