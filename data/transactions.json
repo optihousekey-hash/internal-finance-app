@@ -1142,5 +1142,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-02T09:41:09.181Z"
+  },
+  {
+    "id": "1777787544937",
+    "date": "2026-05-03",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Обслуговування рахунків приват банк",
+    "amount": 150,
+    "comment": "З рахунку",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-03T05:52:24.937Z"
   }
 ]
