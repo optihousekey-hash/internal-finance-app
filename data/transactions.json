@@ -1168,5 +1168,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-04T09:30:51.972Z"
+  },
+  {
+    "id": "1777909325340",
+    "date": "2026-05-04",
+    "person": "Катя",
+    "type": "income",
+    "category": "Документи Галя",
+    "amount": 10000,
+    "comment": "За лісові гринівці",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-04T15:42:05.340Z"
   }
 ]
