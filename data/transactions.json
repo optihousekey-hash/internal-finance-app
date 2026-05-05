@@ -1181,5 +1181,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-04T15:42:05.340Z"
+  },
+  {
+    "id": "1777994671417",
+    "date": "2026-05-05",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні витрати",
+    "amount": 571,
+    "comment": "Катридж",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-05T15:24:31.417Z"
   }
 ]
