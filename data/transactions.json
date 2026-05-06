@@ -1194,5 +1194,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-05T15:24:31.417Z"
+  },
+  {
+    "id": "1778064002991",
+    "date": "2026-05-06",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люби",
+    "amount": 10000,
+    "comment": "За Таню та Присяжного",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-06T10:40:02.991Z"
   }
 ]
