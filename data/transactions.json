@@ -1207,5 +1207,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-06T10:40:02.991Z"
+  },
+  {
+    "id": "1778065335765",
+    "date": "2026-05-06",
+    "person": "Катя",
+    "type": "expense",
+    "category": "За Богдана",
+    "amount": 3000,
+    "comment": "За візуал і оформлення Таня",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-06T11:02:15.765Z"
   }
 ]
