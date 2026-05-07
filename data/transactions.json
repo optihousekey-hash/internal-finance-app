@@ -1259,5 +1259,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-07T07:14:46.646Z"
+  },
+  {
+    "id": "1778148817538",
+    "date": "2026-05-07",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Роману за КМ",
+    "amount": 4000,
+    "comment": "За Івана Старкон",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-07T10:13:37.538Z"
   }
 ]
