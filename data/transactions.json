@@ -1324,5 +1324,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-07T14:45:45.894Z"
+  },
+  {
+    "id": "1778165234598",
+    "date": "2026-05-07",
+    "person": "Катя",
+    "type": "income",
+    "category": "Прибуток",
+    "amount": 90500,
+    "comment": "Присяжні",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-07T14:47:14.598Z"
   }
 ]
