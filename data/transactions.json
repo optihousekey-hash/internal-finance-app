@@ -1337,5 +1337,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-07T14:47:14.598Z"
+  },
+  {
+    "id": "1778165387168",
+    "date": "2026-05-07",
+    "person": "Катя",
+    "type": "expense",
+    "category": "За проєкт",
+    "amount": 1000,
+    "comment": "З присяжних",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-07T14:49:47.168Z"
   }
 ]
