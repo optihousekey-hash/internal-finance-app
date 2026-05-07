@@ -1246,5 +1246,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-06T13:46:22.821Z"
+  },
+  {
+    "id": "1778138086646",
+    "date": "2026-05-07",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата за геодезію",
+    "amount": 3500,
+    "comment": "За Максима геодезію",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-07T07:14:46.646Z"
   }
 ]
