@@ -1272,5 +1272,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-07T10:13:37.538Z"
+  },
+  {
+    "id": "1778157202512",
+    "date": "2026-05-07",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Саша",
+    "amount": 4400,
+    "comment": "За Таню",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-07T12:33:22.512Z"
   }
 ]
