@@ -1350,5 +1350,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-07T14:49:47.168Z"
+  },
+  {
+    "id": "1778245396038",
+    "date": "2026-05-08",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Друк проєкту",
+    "amount": 1170,
+    "comment": "Тетяна",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-08T13:03:16.038Z"
   }
 ]
