@@ -1363,5 +1363,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-08T13:03:16.038Z"
+  },
+  {
+    "id": "1778250983897",
+    "date": "2026-05-08",
+    "person": "Люда",
+    "type": "income",
+    "category": "Володимир дав за Юлю",
+    "amount": 3000,
+    "comment": "",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-08T14:36:23.897Z"
   }
 ]
