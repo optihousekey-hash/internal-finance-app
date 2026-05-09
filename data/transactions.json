@@ -1389,5 +1389,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-09T09:39:53.920Z"
+  },
+  {
+    "id": "1778319629564",
+    "date": "2026-05-09",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 20000,
+    "comment": "Богатир ірина",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-09T09:40:29.564Z"
   }
 ]
