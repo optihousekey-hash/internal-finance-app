@@ -1376,5 +1376,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-08T14:36:23.897Z"
+  },
+  {
+    "id": "1778319593920",
+    "date": "2026-05-09",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Люба документи",
+    "amount": 9000,
+    "comment": "Присяжні",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-09T09:39:53.920Z"
   }
 ]
