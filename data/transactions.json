@@ -1402,5 +1402,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-09T09:40:29.564Z"
+  },
+  {
+    "id": "1778432393856",
+    "date": "2026-05-10",
+    "person": "Люда",
+    "type": "income",
+    "category": "Вася не забрав за Юлю",
+    "amount": 6000,
+    "comment": "Сказав щось купити на офіс",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-10T16:59:53.856Z"
   }
 ]
