@@ -1454,5 +1454,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-12T08:28:53.275Z"
+  },
+  {
+    "id": "1778587555142",
+    "date": "2026-05-12",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні речі",
+    "amount": 4168,
+    "comment": "Машинка кюпюр",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-12T12:05:55.142Z"
   }
 ]
