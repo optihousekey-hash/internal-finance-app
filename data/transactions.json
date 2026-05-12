@@ -1441,5 +1441,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-11T12:15:35.602Z"
+  },
+  {
+    "id": "1778574533275",
+    "date": "2026-05-12",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата за кредит",
+    "amount": 5580,
+    "comment": "Крісла",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-12T08:28:53.275Z"
   }
 ]
