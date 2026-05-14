@@ -1480,5 +1480,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-13T12:23:06.168Z"
+  },
+  {
+    "id": "1778749965045",
+    "date": "2026-05-14",
+    "person": "Люда",
+    "type": "expense",
+    "category": "За друк проекту",
+    "amount": 1130,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-14T09:12:45.045Z"
   }
 ]
