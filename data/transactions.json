@@ -1493,5 +1493,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-14T09:12:45.045Z"
+  },
+  {
+    "id": "1778760691546",
+    "date": "2026-05-14",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдана",
+    "amount": 4500,
+    "comment": "Присяжний",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-14T12:11:31.546Z"
   }
 ]
