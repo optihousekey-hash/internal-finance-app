@@ -1519,5 +1519,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-17T19:23:57.813Z"
+  },
+  {
+    "id": "1779045950301",
+    "date": "2026-05-17",
+    "person": "Катя",
+    "type": "income",
+    "category": "Погашення з зп мінусів",
+    "amount": 24617,
+    "comment": "Погашення минулих витрат",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-17T19:25:50.301Z"
   }
 ]
