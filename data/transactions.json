@@ -1545,5 +1545,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-17T19:26:46.655Z"
+  },
+  {
+    "id": "1779046162516",
+    "date": "2026-05-07",
+    "person": "Катя",
+    "type": "income",
+    "category": "Погашення мінусів за минулий період",
+    "amount": 21316,
+    "comment": "З присяжного",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-17T19:29:22.516Z"
   }
 ]
