@@ -1532,5 +1532,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-17T19:25:50.301Z"
+  },
+  {
+    "id": "1779046006655",
+    "date": "2026-05-17",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Виплата зп",
+    "amount": 90500,
+    "comment": "З присяжного",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-17T19:26:46.655Z"
   }
 ]
