@@ -1571,5 +1571,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-17T19:33:27.674Z"
+  },
+  {
+    "id": "1779046716154",
+    "date": "2026-05-07",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Оплата частинами",
+    "amount": 3779,
+    "comment": "Меблі",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-17T19:38:36.154Z"
   }
 ]
