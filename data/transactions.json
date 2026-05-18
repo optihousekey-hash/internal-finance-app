@@ -1584,5 +1584,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-17T19:38:36.154Z"
+  },
+  {
+    "id": "1779088215010",
+    "date": "2026-05-18",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Вода і бумага",
+    "amount": 150,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-18T07:10:15.011Z"
   }
 ]
