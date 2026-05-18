@@ -1597,5 +1597,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-18T07:10:15.011Z"
+  },
+  {
+    "id": "1779130404400",
+    "date": "2026-05-18",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Реклама",
+    "amount": 260,
+    "comment": "Журнали",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-18T18:53:24.400Z"
   }
 ]
