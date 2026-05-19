@@ -1649,5 +1649,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-19T07:14:20.199Z"
+  },
+  {
+    "id": "1779176782744",
+    "date": "2026-05-08",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід Володимир",
+    "amount": 3000,
+    "comment": "погашення реклами",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-19T07:46:22.744Z"
   }
 ]
