@@ -1610,5 +1610,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-18T18:53:24.400Z"
+  },
+  {
+    "id": "1779174220439",
+    "date": "2026-05-14",
+    "person": "катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 20000,
+    "comment": "Шугар карта",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-19T07:03:40.439Z"
   }
 ]
