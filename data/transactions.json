@@ -1623,5 +1623,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-19T07:03:40.439Z"
+  },
+  {
+    "id": "1779174391761",
+    "date": "2026-05-05",
+    "person": "Катя",
+    "type": "income",
+    "category": "проєкт",
+    "amount": 40000,
+    "comment": "стара синява рахунок з пдв",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-19T07:06:31.761Z"
   }
 ]
