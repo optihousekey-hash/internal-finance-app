@@ -1701,5 +1701,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-21T12:58:15.630Z"
+  },
+  {
+    "id": "1779368401923",
+    "date": "2026-05-21",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 6577,
+    "comment": "Шемерда віктор",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-21T13:00:01.923Z"
   }
 ]
