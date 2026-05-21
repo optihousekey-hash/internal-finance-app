@@ -1662,18 +1662,5 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-19T07:46:22.744Z"
-  },
-  {
-    "id": "1779176834429",
-    "date": "2026-05-19",
-    "person": "Катя",
-    "type": "income",
-    "category": "Незрозуміла кошти",
-    "amount": 5000,
-    "comment": "???",
-    "balanceTarget": "optihouse",
-    "transferFrom": null,
-    "transferTo": null,
-    "createdAt": "2026-05-19T07:47:14.429Z"
   }
 ]
