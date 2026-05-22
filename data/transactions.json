@@ -1753,5 +1753,18 @@
     "transferFrom": "liuda",
     "transferTo": "optihouse",
     "createdAt": "2026-05-22T11:03:18.903Z"
+  },
+  {
+    "id": "1779448892494",
+    "date": "2026-05-22",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдана",
+    "amount": 9000,
+    "comment": "за Хруста та Богатир",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-22T11:21:32.494Z"
   }
 ]
