@@ -1740,5 +1740,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-22T11:00:41.870Z"
+  },
+  {
+    "id": "1779447798903",
+    "date": "2026-05-22",
+    "person": "Катя",
+    "type": "transfer",
+    "category": "поповнення балансу",
+    "amount": 5000,
+    "comment": "на оптіхаус",
+    "balanceTarget": null,
+    "transferFrom": "liuda",
+    "transferTo": "optihouse",
+    "createdAt": "2026-05-22T11:03:18.903Z"
   }
 ]
