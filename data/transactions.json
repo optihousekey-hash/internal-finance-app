@@ -1805,5 +1805,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-25T08:30:25.538Z"
+  },
+  {
+    "id": "1779698583311",
+    "date": "2026-05-25",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Хімія і папки",
+    "amount": 959,
+    "comment": "Ваза і хімія,папки",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-25T08:43:03.311Z"
   }
 ]
