@@ -1818,5 +1818,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-25T08:43:03.311Z"
+  },
+  {
+    "id": "1779698619418",
+    "date": "2026-05-25",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Офісні витрати",
+    "amount": 1100,
+    "comment": "Коврик",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-25T08:43:39.418Z"
   }
 ]
