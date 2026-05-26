@@ -1831,5 +1831,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-25T08:43:39.418Z"
+  },
+  {
+    "id": "1779793026773",
+    "date": "2026-05-26",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні",
+    "amount": 250,
+    "comment": "Вазон",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-26T10:57:06.773Z"
   }
 ]
