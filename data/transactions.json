@@ -1883,5 +1883,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-28T06:27:04.345Z"
+  },
+  {
+    "id": "1779975994526",
+    "date": "2026-05-28",
+    "person": "Катя",
+    "type": "income",
+    "category": "Консультація",
+    "amount": 7000,
+    "comment": "Євреї",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-05-28T13:46:34.526Z"
   }
 ]
