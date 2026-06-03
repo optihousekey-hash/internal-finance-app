@@ -1896,5 +1896,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-05-28T13:46:34.526Z"
+  },
+  {
+    "id": "1780494333121",
+    "date": "2026-06-03",
+    "person": "Катя",
+    "type": "income",
+    "category": "За геодезію",
+    "amount": 7000,
+    "comment": "Шугар",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-03T13:45:33.121Z"
   }
 ]
