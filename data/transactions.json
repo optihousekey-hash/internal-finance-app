@@ -1974,5 +1974,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-05T14:17:25.162Z"
+  },
+  {
+    "id": "1780669072956",
+    "date": "2026-06-05",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Геологія",
+    "amount": 4435,
+    "comment": "Шугар",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-05T14:17:52.956Z"
   }
 ]
