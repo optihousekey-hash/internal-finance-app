@@ -1935,5 +1935,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-05T09:20:53.989Z"
+  },
+  {
+    "id": "1780663309143",
+    "date": "2026-06-05",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люби",
+    "amount": 24000,
+    "comment": "За Теофіполь",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-05T12:41:49.143Z"
   }
 ]
