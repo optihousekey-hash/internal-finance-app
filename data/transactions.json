@@ -1909,5 +1909,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-03T13:45:33.121Z"
+  },
+  {
+    "id": "1780644692713",
+    "date": "2026-06-05",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні витрати",
+    "amount": 300,
+    "comment": "Мишка для Оксани",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-05T07:31:32.713Z"
   }
 ]
