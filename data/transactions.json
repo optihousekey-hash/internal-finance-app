@@ -1922,5 +1922,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-05T07:31:32.713Z"
+  },
+  {
+    "id": "1780651253989",
+    "date": "2026-06-05",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Комунальні",
+    "amount": 8000,
+    "comment": "Оплата комунальних",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-05T09:20:53.989Z"
   }
 ]
