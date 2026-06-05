@@ -1961,5 +1961,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-05T12:55:14.900Z"
+  },
+  {
+    "id": "1780669045162",
+    "date": "2026-06-05",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Геологія",
+    "amount": 500,
+    "comment": "Шугар",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-05T14:17:25.162Z"
   }
 ]
