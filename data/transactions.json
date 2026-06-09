@@ -2000,5 +2000,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-08T12:09:54.384Z"
+  },
+  {
+    "id": "1781014903290",
+    "date": "2026-06-09",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні",
+    "amount": 629,
+    "comment": "Кружки",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-09T14:21:43.290Z"
   }
 ]
