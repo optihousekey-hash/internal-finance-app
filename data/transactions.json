@@ -2026,5 +2026,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-09T14:24:49.708Z"
+  },
+  {
+    "id": "1781017103572",
+    "date": "2026-06-09",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Друк",
+    "amount": 1080,
+    "comment": "Кучер і хруст",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-09T14:58:23.572Z"
   }
 ]
