@@ -2046,7 +2046,7 @@
     "person": "Катя",
     "type": "income",
     "category": "Дохід з електрика Юля",
-    "amount": 56000,
+    "amount": 23000,
     "comment": "З Юлі",
     "balanceTarget": "optihouse",
     "transferFrom": null,
