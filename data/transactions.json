@@ -2039,5 +2039,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-09T14:58:23.572Z"
+  },
+  {
+    "id": "1781251194810",
+    "date": "2026-06-12",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з електрика Юля",
+    "amount": 56000,
+    "comment": "З Юлі",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-12T07:59:54.810Z"
   }
 ]
