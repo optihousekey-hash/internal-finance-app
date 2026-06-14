@@ -2078,5 +2078,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-12T09:35:55.193Z"
+  },
+  {
+    "id": "1781441884453",
+    "date": "2026-06-14",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 20000,
+    "comment": "Лотовський олександр",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-14T12:58:04.453Z"
   }
 ]
