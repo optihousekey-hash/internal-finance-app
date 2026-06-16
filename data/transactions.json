@@ -2156,5 +2156,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-16T10:27:19.887Z"
+  },
+  {
+    "id": "1781605686208",
+    "date": "2026-06-16",
+    "person": "Люда",
+    "type": "income",
+    "category": "Откат за Проект Галя",
+    "amount": 10000,
+    "comment": "Олег склад з палями",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-16T10:28:06.208Z"
   }
 ]
