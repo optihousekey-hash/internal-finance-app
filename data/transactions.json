@@ -2130,5 +2130,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-16T06:47:16.557Z"
+  },
+  {
+    "id": "1781597599855",
+    "date": "2026-06-16",
+    "person": "Катя",
+    "type": "income",
+    "category": "Айтішнік",
+    "amount": 35000,
+    "comment": "За бронь",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-16T08:13:19.855Z"
   }
 ]
