@@ -2143,5 +2143,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-16T08:13:19.855Z"
+  },
+  {
+    "id": "1781605639887",
+    "date": "2026-06-16",
+    "person": "Люда",
+    "type": "income",
+    "category": "Откат за сантехніку",
+    "amount": 5100,
+    "comment": "За Юлю",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-16T10:27:19.887Z"
   }
 ]
