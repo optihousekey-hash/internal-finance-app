@@ -2169,5 +2169,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-16T10:28:06.208Z"
+  },
+  {
+    "id": "1781605724073",
+    "date": "2026-06-16",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 15000,
+    "comment": "Зп Оксана",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-16T10:28:44.073Z"
   }
 ]
