@@ -2189,7 +2189,7 @@
     "person": "Катя",
     "type": "expense",
     "category": "Бронь",
-    "amount": 25000,
+    "amount": 26000,
     "comment": "Айтішнік",
     "balanceTarget": "optihouse",
     "transferFrom": null,
