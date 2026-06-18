@@ -2247,5 +2247,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-18T11:40:24.277Z"
+  },
+  {
+    "id": "1781782850336",
+    "date": "2026-06-18",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Розрахунок з працівниками",
+    "amount": 1000,
+    "comment": "Паркан лєзнево",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-18T11:40:50.336Z"
   }
 ]
