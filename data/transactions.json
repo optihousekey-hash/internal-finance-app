@@ -2208,5 +2208,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-18T10:50:16.882Z"
+  },
+  {
+    "id": "1781780018007",
+    "date": "2026-06-18",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Комісія за переказ з карти на карту",
+    "amount": 450,
+    "comment": "Комісія з рахунку",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-18T10:53:38.007Z"
   }
 ]
