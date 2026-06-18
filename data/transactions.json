@@ -2273,5 +2273,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-18T11:42:02.763Z"
+  },
+  {
+    "id": "1781791032963",
+    "date": "2026-06-18",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Матеріал на Олешин",
+    "amount": 1300,
+    "comment": "Фарба",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-18T13:57:12.963Z"
   }
 ]
