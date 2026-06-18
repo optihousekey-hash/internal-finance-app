@@ -2234,5 +2234,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-18T10:58:20.279Z"
+  },
+  {
+    "id": "1781782824277",
+    "date": "2026-06-18",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Розрахунок з робочими",
+    "amount": 19000,
+    "comment": "Парка лєзнево",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-18T11:40:24.277Z"
   }
 ]
