@@ -2195,5 +2195,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-17T14:46:59.194Z"
+  },
+  {
+    "id": "1781779816882",
+    "date": "2026-06-18",
+    "person": "Люда",
+    "type": "income",
+    "category": "Оплата за роботу парапет",
+    "amount": 43400,
+    "comment": "Оплата за роботу",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-18T10:50:16.882Z"
   }
 ]
