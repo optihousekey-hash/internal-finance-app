@@ -2221,5 +2221,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-18T10:53:38.007Z"
+  },
+  {
+    "id": "1781780300279",
+    "date": "2026-06-18",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Васі зп",
+    "amount": 9000,
+    "comment": "Васін відсоток",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-18T10:58:20.279Z"
   }
 ]
