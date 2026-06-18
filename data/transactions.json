@@ -2273,18 +2273,5 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-18T11:42:02.763Z"
-  },
-  {
-    "id": "1781787474261",
-    "date": "2026-06-18",
-    "person": "Люда",
-    "type": "expense",
-    "category": "Зарплата за парапет",
-    "amount": 26000,
-    "comment": "Оплата Саші сварщику",
-    "balanceTarget": "optihouse",
-    "transferFrom": null,
-    "transferTo": null,
-    "createdAt": "2026-06-18T12:57:54.261Z"
   }
 ]
