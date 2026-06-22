@@ -2351,5 +2351,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-22T11:04:11.663Z"
+  },
+  {
+    "id": "1782141348622",
+    "date": "2026-06-22",
+    "person": "Катя",
+    "type": "income",
+    "category": "Відкат з Паші",
+    "amount": 9600,
+    "comment": "За перекриття",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-22T15:15:48.622Z"
   }
 ]
