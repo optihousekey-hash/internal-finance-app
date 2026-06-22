@@ -2312,5 +2312,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-22T09:10:41.170Z"
+  },
+  {
+    "id": "1782119549361",
+    "date": "2026-06-22",
+    "person": "Люда",
+    "type": "income",
+    "category": "Відсоток за стяжку в Юлі",
+    "amount": 3500,
+    "comment": "Скинув на карту мені",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-22T09:12:29.361Z"
   }
 ]
