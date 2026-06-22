@@ -2325,5 +2325,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-22T09:12:29.361Z"
+  },
+  {
+    "id": "1782119889997",
+    "date": "2026-06-22",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Кредит",
+    "amount": 5366,
+    "comment": "За рецепсію",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-22T09:18:09.997Z"
   }
 ]
