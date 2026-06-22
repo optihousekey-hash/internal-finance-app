@@ -2299,5 +2299,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-22T09:07:33.011Z"
+  },
+  {
+    "id": "1782119441170",
+    "date": "2026-06-22",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Паркан Олешин",
+    "amount": 4000,
+    "comment": "За роботу",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-22T09:10:41.170Z"
   }
 ]
