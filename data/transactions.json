@@ -2377,5 +2377,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-23T15:44:15.836Z"
+  },
+  {
+    "id": "1782312360127",
+    "date": "2026-06-24",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 20000,
+    "comment": "Загранюк",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-24T14:46:00.127Z"
   }
 ]
