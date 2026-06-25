@@ -2429,5 +2429,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-25T14:35:07.092Z"
+  },
+  {
+    "id": "1782398463260",
+    "date": "2026-06-25",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люба",
+    "amount": 9000,
+    "comment": "Хруст і Богатир",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-25T14:41:03.260Z"
   }
 ]
