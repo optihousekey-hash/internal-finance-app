@@ -2442,5 +2442,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-25T14:41:03.260Z"
+  },
+  {
+    "id": "1782400683262",
+    "date": "2026-06-25",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Відкат",
+    "amount": 5000,
+    "comment": "Будімідж",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-25T15:18:03.262Z"
   }
 ]
