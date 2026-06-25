@@ -2403,5 +2403,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-25T11:35:57.374Z"
+  },
+  {
+    "id": "1782398067224",
+    "date": "2026-06-25",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп люби",
+    "amount": 4500,
+    "comment": "Кизима",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-25T14:34:27.224Z"
   }
 ]
