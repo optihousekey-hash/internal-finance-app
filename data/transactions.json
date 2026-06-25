@@ -2416,5 +2416,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-25T14:34:27.224Z"
+  },
+  {
+    "id": "1782398107092",
+    "date": "2026-06-25",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдана",
+    "amount": 4500,
+    "comment": "Кизими",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-25T14:35:07.092Z"
   }
 ]
