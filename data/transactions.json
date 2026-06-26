@@ -2468,5 +2468,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-26T13:57:13.368Z"
+  },
+  {
+    "id": "1782498344005",
+    "date": "2026-06-26",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Позика Васьові",
+    "amount": 5000,
+    "comment": "Позичив у а карту скинула",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-26T18:25:44.005Z"
   }
 ]
