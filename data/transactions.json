@@ -2455,5 +2455,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-25T15:18:03.262Z"
+  },
+  {
+    "id": "1782460820619",
+    "date": "2026-06-26",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Бронювання",
+    "amount": 15900,
+    "comment": "Богдан",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-26T08:00:20.619Z"
   }
 ]
