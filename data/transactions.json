@@ -2455,5 +2455,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-26T08:00:20.619Z"
+  },
+  {
+    "id": "1782482233368",
+    "date": "2026-06-26",
+    "person": "Катя",
+    "type": "income",
+    "category": "Оплата від сертифіката",
+    "amount": 9950,
+    "comment": "За проєкт з сіп панелей",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-26T13:57:13.368Z"
   }
 ]
