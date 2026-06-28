@@ -2507,5 +2507,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-28T07:35:03.729Z"
+  },
+  {
+    "id": "1782639105897",
+    "date": "2026-06-28",
+    "person": "Люда",
+    "type": "income",
+    "category": "Оплата за ескіз жиди",
+    "amount": 10000,
+    "comment": "Жиди на ексіз",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-28T09:31:45.897Z"
   }
 ]
