@@ -2559,5 +2559,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-30T07:14:55.114Z"
+  },
+  {
+    "id": "1782828969230",
+    "date": "2026-06-30",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Податки",
+    "amount": 1213,
+    "comment": "За надходження червень",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-30T14:16:09.230Z"
   }
 ]
