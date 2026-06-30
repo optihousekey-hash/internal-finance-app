@@ -2533,5 +2533,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-29T07:10:23.876Z"
+  },
+  {
+    "id": "1782798287636",
+    "date": "2026-06-30",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Позика Каті на погашення кредиту",
+    "amount": 14585,
+    "comment": "В липні має повернути",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-06-30T05:44:47.636Z"
   }
 ]
