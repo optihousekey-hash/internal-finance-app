@@ -2572,5 +2572,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-06-30T14:16:09.230Z"
+  },
+  {
+    "id": "1783067451543",
+    "date": "2026-07-03",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Водичка для клієнтів",
+    "amount": 200,
+    "comment": "",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-03T08:30:51.543Z"
   }
 ]
