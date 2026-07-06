@@ -2611,5 +2611,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-06T10:48:53.258Z"
+  },
+  {
+    "id": "1783335016466",
+    "date": "2026-07-06",
+    "person": "Люда",
+    "type": "income",
+    "category": "Олешин решта",
+    "amount": 9000,
+    "comment": "Скинула на мою карту",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-06T10:50:16.466Z"
   }
 ]
