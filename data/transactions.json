@@ -2637,5 +2637,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-07T06:58:46.304Z"
+  },
+  {
+    "id": "1783424469043",
+    "date": "2026-07-07",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Заплатила Артему за паркан",
+    "amount": 5000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-07T11:41:09.043Z"
   }
 ]
