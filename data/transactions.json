@@ -2650,5 +2650,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-07T11:41:09.043Z"
+  },
+  {
+    "id": "1783436672150",
+    "date": "2026-07-07",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні",
+    "amount": 1000,
+    "comment": "Витрати на дн оксани",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-07T15:04:32.150Z"
   }
 ]
