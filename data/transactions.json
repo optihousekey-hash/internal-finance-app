@@ -2624,5 +2624,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-06T10:50:16.466Z"
+  },
+  {
+    "id": "1783407526304",
+    "date": "2026-07-07",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Васьові за бронювання",
+    "amount": 4100,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-07T06:58:46.304Z"
   }
 ]
