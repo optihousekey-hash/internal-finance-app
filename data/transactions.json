@@ -2689,5 +2689,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-09T06:35:45.113Z"
+  },
+  {
+    "id": "1783605936557",
+    "date": "2026-07-09",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Цукерки і салфетки",
+    "amount": 200,
+    "comment": "",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-09T14:05:36.557Z"
   }
 ]
