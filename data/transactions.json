@@ -2715,5 +2715,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-10T11:48:22.248Z"
+  },
+  {
+    "id": "1783685211371",
+    "date": "2026-07-10",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдана",
+    "amount": 7500,
+    "comment": "Ярмолинці",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-10T12:06:51.371Z"
   }
 ]
