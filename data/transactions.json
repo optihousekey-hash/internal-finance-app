@@ -2728,5 +2728,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-10T12:06:51.371Z"
+  },
+  {
+    "id": "1783846266826",
+    "date": "2026-07-12",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Роману за Баранова",
+    "amount": 32700,
+    "comment": "З комісією",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-12T08:51:06.826Z"
   }
 ]
