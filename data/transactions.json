@@ -2780,5 +2780,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-14T10:57:28.327Z"
+  },
+  {
+    "id": "1784031109983",
+    "date": "2026-07-14",
+    "person": "Катя",
+    "type": "income",
+    "category": "За проєкт",
+    "amount": 30000,
+    "comment": "Левчук Тетяна",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-14T12:11:49.983Z"
   }
 ]
