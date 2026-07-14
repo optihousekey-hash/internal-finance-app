@@ -2754,5 +2754,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-14T06:21:54.921Z"
+  },
+  {
+    "id": "1784026627025",
+    "date": "2026-07-14",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід за Перегінку",
+    "amount": 25000,
+    "comment": "З авансу за стіни",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-14T10:57:07.025Z"
   }
 ]
