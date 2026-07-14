@@ -2767,5 +2767,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-14T10:57:07.025Z"
+  },
+  {
+    "id": "1784026648327",
+    "date": "2026-07-14",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп на Люду і Катю",
+    "amount": 25000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-14T10:57:28.327Z"
   }
 ]
