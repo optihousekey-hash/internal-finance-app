@@ -2806,5 +2806,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-15T12:19:26.274Z"
+  },
+  {
+    "id": "1784118021264",
+    "date": "2026-07-15",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Податок єсв за липень",
+    "amount": 1905,
+    "comment": "З рахунку",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-15T12:20:21.264Z"
   }
 ]
