@@ -2819,5 +2819,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-15T12:20:21.264Z"
+  },
+  {
+    "id": "1784119037084",
+    "date": "2026-07-15",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Мобільного поповнення",
+    "amount": 450,
+    "comment": "Ангари тел",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-15T12:37:17.084Z"
   }
 ]
