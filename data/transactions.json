@@ -2871,5 +2871,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T09:15:41.501Z"
+  },
+  {
+    "id": "1784195855242",
+    "date": "2026-07-16",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з Ярмолинців",
+    "amount": 40400,
+    "comment": "66% від заложеної",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T09:57:35.242Z"
   }
 ]
