@@ -2949,5 +2949,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T14:26:04.453Z"
+  },
+  {
+    "id": "1784212879008",
+    "date": "2026-07-16",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід",
+    "amount": 700,
+    "comment": "З вікон вадима",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T14:41:19.008Z"
   }
 ]
