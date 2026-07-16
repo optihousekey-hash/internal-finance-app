@@ -2936,5 +2936,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T13:46:10.687Z"
+  },
+  {
+    "id": "1784211964453",
+    "date": "2026-07-16",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Романа",
+    "amount": 17000,
+    "comment": "За геологів",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T14:26:04.453Z"
   }
 ]
