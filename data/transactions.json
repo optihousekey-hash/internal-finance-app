@@ -2910,5 +2910,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T09:58:46.654Z"
+  },
+  {
+    "id": "1784200008750",
+    "date": "2026-07-16",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Оксани",
+    "amount": 20000,
+    "comment": "Ставка за липень",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T11:06:48.750Z"
   }
 ]
