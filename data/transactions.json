@@ -2897,5 +2897,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T09:58:32.585Z"
+  },
+  {
+    "id": "1784195926654",
+    "date": "2026-07-16",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата за Ярмолинці",
+    "amount": 20100,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T09:58:46.654Z"
   }
 ]
