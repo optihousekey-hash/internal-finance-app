@@ -2832,5 +2832,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-15T12:37:17.084Z"
+  },
+  {
+    "id": "1784183481914",
+    "date": "2026-07-16",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Витрата на офіс",
+    "amount": 345,
+    "comment": "Бумага,олівці,цукерки",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T06:31:21.914Z"
   }
 ]
