@@ -2858,5 +2858,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T07:34:53.674Z"
+  },
+  {
+    "id": "1784193341501",
+    "date": "2026-07-16",
+    "person": "Люда",
+    "type": "income",
+    "category": "Оплата за проєкт клініка",
+    "amount": 35000,
+    "comment": "Аванс 50%",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T09:15:41.501Z"
   }
 ]
