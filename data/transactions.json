@@ -2845,5 +2845,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T06:31:21.914Z"
+  },
+  {
+    "id": "1784187293674",
+    "date": "2026-07-16",
+    "person": "Катя",
+    "type": "income",
+    "category": "За проєкт",
+    "amount": 17000,
+    "comment": "Геологів Леонід",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T07:34:53.674Z"
   }
 ]
