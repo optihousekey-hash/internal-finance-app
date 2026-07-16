@@ -2988,5 +2988,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T14:43:38.286Z"
+  },
+  {
+    "id": "1784213048849",
+    "date": "2026-07-16",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люди",
+    "amount": 5000,
+    "comment": "З вікон вадим заводська",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-16T14:44:08.849Z"
   }
 ]
