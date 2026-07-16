@@ -2891,7 +2891,7 @@
     "person": "Катя",
     "type": "expense",
     "category": "Зп Катя",
-    "amount": 20400,
+    "amount": 20300,
     "comment": "За Ярмолинці",
     "balanceTarget": "optihouse",
     "transferFrom": null,
