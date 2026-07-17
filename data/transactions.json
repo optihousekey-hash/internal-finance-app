@@ -3014,5 +3014,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-17T05:59:26.831Z"
+  },
+  {
+    "id": "1784273377329",
+    "date": "2026-07-17",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Геодезія Саша",
+    "amount": 5000,
+    "comment": "Левчук Тетяна Дубово",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-17T07:29:37.329Z"
   }
 ]
