@@ -3040,5 +3040,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-17T12:20:05.891Z"
+  },
+  {
+    "id": "1784300740781",
+    "date": "2026-07-17",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люби",
+    "amount": 30000,
+    "comment": "За Шугара",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-17T15:05:40.781Z"
   }
 ]
