@@ -3027,5 +3027,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-17T07:29:37.329Z"
+  },
+  {
+    "id": "1784290805891",
+    "date": "2026-07-17",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Покупка степлера",
+    "amount": 500,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-17T12:20:05.891Z"
   }
 ]
