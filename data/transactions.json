@@ -3001,5 +3001,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-16T14:44:08.849Z"
+  },
+  {
+    "id": "1784267966831",
+    "date": "2026-07-17",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Цукерки",
+    "amount": 50,
+    "comment": "",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-17T05:59:26.831Z"
   }
 ]
