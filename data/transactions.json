@@ -3144,5 +3144,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-20T13:11:11.964Z"
+  },
+  {
+    "id": "1784560081158",
+    "date": "2026-07-20",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Подарок Лені",
+    "amount": 560,
+    "comment": "Шампанське і Рафаело",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-20T15:08:01.158Z"
   }
 ]
