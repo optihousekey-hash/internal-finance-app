@@ -3053,5 +3053,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-17T15:05:40.781Z"
+  },
+  {
+    "id": "1784530233602",
+    "date": "2026-07-20",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з продажу",
+    "amount": 49000,
+    "comment": "Вадим заводська",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-20T06:50:33.602Z"
   }
 ]
