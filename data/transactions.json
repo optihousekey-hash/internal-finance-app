@@ -3105,5 +3105,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-20T07:06:01.785Z"
+  },
+  {
+    "id": "1784545472546",
+    "date": "2026-07-20",
+    "person": "Катя",
+    "type": "income",
+    "category": "За геологію та геодезію",
+    "amount": 11250,
+    "comment": "Левчук тетяна",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-20T11:04:32.546Z"
   }
 ]
