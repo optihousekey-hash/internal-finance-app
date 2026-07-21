@@ -3235,5 +3235,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-21T16:08:28.077Z"
+  },
+  {
+    "id": "1784650146142",
+    "date": "2026-07-21",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Каті",
+    "amount": 4500,
+    "comment": "З продажу ділянки",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-21T16:09:06.142Z"
   }
 ]
