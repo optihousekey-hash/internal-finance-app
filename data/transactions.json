@@ -3222,5 +3222,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-21T13:33:51.579Z"
+  },
+  {
+    "id": "1784650108077",
+    "date": "2026-07-21",
+    "person": "Катя",
+    "type": "income",
+    "category": "Ріелтор Світлана",
+    "amount": 4500,
+    "comment": "За кл Олег сто",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-21T16:08:28.077Z"
   }
 ]
