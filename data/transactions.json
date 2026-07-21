@@ -3170,5 +3170,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-21T05:31:19.496Z"
+  },
+  {
+    "id": "1784622659722",
+    "date": "2026-07-21",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Геологія дубово",
+    "amount": 8000,
+    "comment": "Левчук",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-21T08:30:59.722Z"
   }
 ]
