@@ -3157,5 +3157,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-20T15:08:01.158Z"
+  },
+  {
+    "id": "1784611879496",
+    "date": "2026-07-21",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Навчання екіпаж",
+    "amount": 1000,
+    "comment": "Дилер",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-21T05:31:19.496Z"
   }
 ]
