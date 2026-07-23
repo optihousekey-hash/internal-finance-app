@@ -3248,5 +3248,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-21T16:09:06.142Z"
+  },
+  {
+    "id": "1784815693800",
+    "date": "2026-07-23",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з фундаменту Паша",
+    "amount": 7000,
+    "comment": "З паші",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-23T14:08:13.800Z"
   }
 ]
