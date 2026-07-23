@@ -3274,5 +3274,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-23T15:59:31.988Z"
+  },
+  {
+    "id": "1784823057806",
+    "date": "2026-07-23",
+    "person": "Катя",
+    "type": "income",
+    "category": "З бмв",
+    "amount": 1000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-23T16:10:57.806Z"
   }
 ]
