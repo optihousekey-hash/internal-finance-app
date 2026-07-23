@@ -3261,5 +3261,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-23T14:08:13.800Z"
+  },
+  {
+    "id": "1784822371988",
+    "date": "2026-07-23",
+    "person": "Катя",
+    "type": "income",
+    "category": "Від олега",
+    "amount": 1000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-23T15:59:31.988Z"
   }
 ]
