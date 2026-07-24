@@ -3300,5 +3300,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-24T09:22:12.744Z"
+  },
+  {
+    "id": "1784884935782",
+    "date": "2026-07-24",
+    "person": "Люда",
+    "type": "income",
+    "category": "Відкат за двері Юлі",
+    "amount": 1000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-24T09:22:15.782Z"
   }
 ]
