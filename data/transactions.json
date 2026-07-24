@@ -3326,5 +3326,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-24T09:22:17.776Z"
+  },
+  {
+    "id": "1784905611982",
+    "date": "2026-07-24",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з продажу",
+    "amount": 6000,
+    "comment": "Геологи",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-24T15:06:51.982Z"
   }
 ]
