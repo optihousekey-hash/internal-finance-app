@@ -3430,5 +3430,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-29T07:24:35.286Z"
+  },
+  {
+    "id": "1785309998021",
+    "date": "2026-07-29",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата програми по податку",
+    "amount": 690,
+    "comment": "Оплата бухгалтера",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-29T07:26:38.021Z"
   }
 ]
