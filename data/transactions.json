@@ -3391,5 +3391,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-29T07:10:08.668Z"
+  },
+  {
+    "id": "1785309708353",
+    "date": "2026-07-29",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Податки",
+    "amount": 7507,
+    "comment": "Податок",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-29T07:21:48.353Z"
   }
 ]
