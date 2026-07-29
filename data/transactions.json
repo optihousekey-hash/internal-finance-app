@@ -3443,5 +3443,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-29T07:26:38.021Z"
+  },
+  {
+    "id": "1785314884515",
+    "date": "2026-07-29",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата бухгалтеру",
+    "amount": 1000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-29T08:48:04.515Z"
   }
 ]
