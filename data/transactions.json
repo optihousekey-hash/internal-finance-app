@@ -3398,7 +3398,7 @@
     "person": "Люда",
     "type": "expense",
     "category": "Податки",
-    "amount": 7507,
+    "amount": 7432,
     "comment": "Податок",
     "balanceTarget": "optihouse",
     "transferFrom": null,
