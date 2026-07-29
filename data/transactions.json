@@ -3469,5 +3469,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-29T11:56:37.878Z"
+  },
+  {
+    "id": "1785334175938",
+    "date": "2026-07-29",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдана",
+    "amount": 1000,
+    "comment": "За клініку",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-29T14:09:35.938Z"
   }
 ]
