@@ -3495,5 +3495,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-30T11:38:39.856Z"
+  },
+  {
+    "id": "1785416138469",
+    "date": "2026-07-30",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люби",
+    "amount": 30000,
+    "comment": "За Стару Синяву",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-30T12:55:38.469Z"
   }
 ]
