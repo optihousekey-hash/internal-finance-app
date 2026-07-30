@@ -3482,5 +3482,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-29T14:09:35.938Z"
+  },
+  {
+    "id": "1785411519856",
+    "date": "2026-07-30",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Вода",
+    "amount": 700,
+    "comment": "Помпа і бутл",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-07-30T11:38:39.856Z"
   }
 ]
