@@ -3534,5 +3534,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-07-31T11:36:56.859Z"
+  },
+  {
+    "id": "1785741143133",
+    "date": "2026-08-03",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з продажу",
+    "amount": 56100,
+    "comment": "за вікна кл Холодець",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-03T07:12:23.133Z"
   }
 ]
