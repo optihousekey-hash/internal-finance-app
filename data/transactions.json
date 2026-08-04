@@ -3586,5 +3586,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-04T06:50:42.276Z"
+  },
+  {
+    "id": "1785826330748",
+    "date": "2026-08-04",
+    "person": "Катя",
+    "type": "income",
+    "category": "Оплата за проєкт Архон",
+    "amount": 26533,
+    "comment": "Райський Дмитро на карту приват Каті",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-04T06:52:10.748Z"
   }
 ]
