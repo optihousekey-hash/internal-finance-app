@@ -3573,5 +3573,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-03T13:50:19.711Z"
+  },
+  {
+    "id": "1785826242276",
+    "date": "2026-08-04",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Друк проєкту",
+    "amount": 1320,
+    "comment": "дизайн котежд",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-04T06:50:42.276Z"
   }
 ]
