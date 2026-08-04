@@ -3599,5 +3599,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-04T06:52:10.748Z"
+  },
+  {
+    "id": "1785826393109",
+    "date": "2026-08-04",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Оплата за проєкт Архон",
+    "amount": 24744,
+    "comment": "Райський Дмитро",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-04T06:53:13.109Z"
   }
 ]
