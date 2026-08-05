@@ -3625,5 +3625,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-04T08:53:18.897Z"
+  },
+  {
+    "id": "1785941141888",
+    "date": "2026-08-05",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Хімія",
+    "amount": 400,
+    "comment": "Побутова хімія",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-05T14:45:41.888Z"
   }
 ]
