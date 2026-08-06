@@ -3638,5 +3638,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-05T14:45:41.888Z"
+  },
+  {
+    "id": "1786001178668",
+    "date": "2026-08-06",
+    "person": "Катя",
+    "type": "income",
+    "category": "Податки",
+    "amount": 1200,
+    "comment": "Єдиний та військовий збір",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-06T07:26:18.668Z"
   }
 ]
