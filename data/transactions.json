@@ -3716,5 +3716,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-07T12:00:12.982Z"
+  },
+  {
+    "id": "1786111696101",
+    "date": "2026-08-07",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдан",
+    "amount": 7500,
+    "comment": "Левчук Тетяна",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-07T14:08:16.101Z"
   }
 ]
