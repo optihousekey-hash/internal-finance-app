@@ -3711,7 +3711,7 @@
     "type": "expense",
     "category": "Бронь",
     "amount": 25000,
-    "comment": "Богдан",
+    "comment": "Богдан за липень",
     "balanceTarget": "optihouse",
     "transferFrom": null,
     "transferTo": null,
