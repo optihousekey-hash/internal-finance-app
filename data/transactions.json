@@ -3651,5 +3651,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-06T07:26:18.668Z"
+  },
+  {
+    "id": "1786094391427",
+    "date": "2026-08-07",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Саші",
+    "amount": 10200,
+    "comment": "Зп Сашці",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-07T09:19:51.427Z"
   }
 ]
