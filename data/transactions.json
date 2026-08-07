@@ -3677,5 +3677,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-07T09:25:51.727Z"
+  },
+  {
+    "id": "1786103864913",
+    "date": "2026-08-07",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дизайн проєкт",
+    "amount": 60000,
+    "comment": "аванс 50% Худзік Таміла Максим Дендро",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-07T11:57:44.913Z"
   }
 ]
