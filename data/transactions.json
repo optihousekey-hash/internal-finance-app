@@ -3664,5 +3664,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-07T09:19:51.427Z"
+  },
+  {
+    "id": "1786094751727",
+    "date": "2026-08-07",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Канцелярія",
+    "amount": 200,
+    "comment": "Витрата",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-07T09:25:51.727Z"
   }
 ]
