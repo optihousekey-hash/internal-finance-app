@@ -3742,5 +3742,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-10T10:31:52.740Z"
+  },
+  {
+    "id": "1786360322861",
+    "date": "2026-08-10",
+    "person": "Люда",
+    "type": "income",
+    "category": "Оплата за проєкт",
+    "amount": 42400,
+    "comment": "Віктор",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-10T11:12:02.861Z"
   }
 ]
