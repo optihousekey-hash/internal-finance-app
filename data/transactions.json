@@ -3729,5 +3729,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-07T14:08:16.101Z"
+  },
+  {
+    "id": "1786357912740",
+    "date": "2026-08-10",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Поділилась з заробітку за проєкт з Васьою",
+    "amount": 7000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-10T10:31:52.740Z"
   }
 ]
