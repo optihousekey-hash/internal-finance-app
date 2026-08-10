@@ -3755,5 +3755,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-10T11:12:02.861Z"
+  },
+  {
+    "id": "1786368449584",
+    "date": "2026-08-10",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Роману за Віктора",
+    "amount": 32500,
+    "comment": "Доплата за проект",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-10T13:27:29.584Z"
   }
 ]
