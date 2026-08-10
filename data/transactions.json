@@ -3794,5 +3794,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-10T13:29:48.583Z"
+  },
+  {
+    "id": "1786368650920",
+    "date": "2026-08-10",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Богдану за заміри",
+    "amount": 1000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-10T13:30:50.920Z"
   }
 ]
