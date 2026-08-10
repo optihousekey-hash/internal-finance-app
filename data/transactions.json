@@ -3781,5 +3781,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-10T13:28:09.808Z"
+  },
+  {
+    "id": "1786368588583",
+    "date": "2026-08-10",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Комісія банку за переказ",
+    "amount": 250,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-10T13:29:48.583Z"
   }
 ]
