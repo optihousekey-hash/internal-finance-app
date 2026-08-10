@@ -3768,5 +3768,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-10T13:27:29.584Z"
+  },
+  {
+    "id": "1786368489808",
+    "date": "2026-08-10",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Ключі",
+    "amount": 400,
+    "comment": "Ключі",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-10T13:28:09.808Z"
   }
 ]
