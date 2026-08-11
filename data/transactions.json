@@ -3885,5 +3885,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-11T08:09:00.239Z"
+  },
+  {
+    "id": "1786442848945",
+    "date": "2026-08-11",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Канцелярія і цукерки",
+    "amount": 400,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-11T10:07:28.945Z"
   }
 ]
