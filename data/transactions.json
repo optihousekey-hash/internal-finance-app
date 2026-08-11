@@ -3872,5 +3872,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-11T08:07:28.254Z"
+  },
+  {
+    "id": "1786435740239",
+    "date": "2026-08-11",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Люді за Лезнево",
+    "amount": 5000,
+    "comment": "Готівка",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-11T08:09:00.239Z"
   }
 ]
