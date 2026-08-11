@@ -3820,5 +3820,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-11T07:12:09.676Z"
+  },
+  {
+    "id": "1786432496982",
+    "date": "2026-08-11",
+    "person": "Люда",
+    "type": "income",
+    "category": "З Лезнево",
+    "amount": 52700,
+    "comment": "Паркан",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-11T07:14:56.982Z"
   }
 ]
