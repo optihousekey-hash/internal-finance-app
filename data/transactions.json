@@ -3833,5 +3833,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-11T07:14:56.982Z"
+  },
+  {
+    "id": "1786432544488",
+    "date": "2026-08-11",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата за роботу хлопцям",
+    "amount": 29700,
+    "comment": "Сварщикам",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-11T07:15:44.488Z"
   }
 ]
