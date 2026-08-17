@@ -3924,5 +3924,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-17T10:09:40.421Z"
+  },
+  {
+    "id": "1786970902518",
+    "date": "2026-08-17",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з Юлі",
+    "amount": 20500,
+    "comment": "Відкат за Юлю плитка і шпаклівка",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-17T12:48:22.518Z"
   }
 ]
