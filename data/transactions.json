@@ -3950,5 +3950,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-17T12:49:44.076Z"
+  },
+  {
+    "id": "1786971011103",
+    "date": "2026-08-17",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Виплата зп Люда",
+    "amount": 10500,
+    "comment": "З Юлі",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-17T12:50:11.103Z"
   }
 ]
