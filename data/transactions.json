@@ -4015,5 +4015,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-19T08:50:57.140Z"
+  },
+  {
+    "id": "1787155947930",
+    "date": "2026-08-19",
+    "person": "Катя",
+    "type": "income",
+    "category": "Бронювання",
+    "amount": 35000,
+    "comment": "Айтішнік",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-19T16:12:27.930Z"
   }
 ]
