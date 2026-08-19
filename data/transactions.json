@@ -3989,5 +3989,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-18T07:34:23.538Z"
+  },
+  {
+    "id": "1787125199947",
+    "date": "2026-08-19",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата за дозвіл Присяжним",
+    "amount": 8000,
+    "comment": "Оплатили з свого балансу ,потрібно додати до прорахунку",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-19T07:39:59.947Z"
   }
 ]
