@@ -4028,5 +4028,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-19T16:17:52.044Z"
+  },
+  {
+    "id": "1787313255310",
+    "date": "2026-08-21",
+    "person": "Люда",
+    "type": "income",
+    "category": "Відкат за геологію Катіон",
+    "amount": 2000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-21T11:54:15.310Z"
   }
 ]
