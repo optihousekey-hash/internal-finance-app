@@ -4041,5 +4041,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-21T11:54:15.310Z"
+  },
+  {
+    "id": "1787552703789",
+    "date": "2026-08-24",
+    "person": "Люда",
+    "type": "income",
+    "category": "Дохід з Куражина",
+    "amount": 2000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-24T06:25:03.789Z"
   }
 ]
