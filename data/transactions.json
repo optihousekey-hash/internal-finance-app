@@ -4054,5 +4054,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-24T06:25:03.789Z"
+  },
+  {
+    "id": "1787577415244",
+    "date": "2026-08-24",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата за експертизу",
+    "amount": 6408,
+    "comment": "Експертиза за клініку Міламед",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-24T13:16:55.244Z"
   }
 ]
