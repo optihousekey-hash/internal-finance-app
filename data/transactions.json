@@ -4093,5 +4093,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-26T08:37:13.287Z"
+  },
+  {
+    "id": "1787746317090",
+    "date": "2026-08-26",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 27000,
+    "comment": "Шемерда розрахунок за 1й проєкт",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-26T12:11:57.090Z"
   }
 ]
