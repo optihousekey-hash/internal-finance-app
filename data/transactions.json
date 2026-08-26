@@ -4119,5 +4119,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-26T12:12:35.021Z"
+  },
+  {
+    "id": "1787753349582",
+    "date": "2026-08-26",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Вода",
+    "amount": 160,
+    "comment": "",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-26T14:09:09.582Z"
   }
 ]
