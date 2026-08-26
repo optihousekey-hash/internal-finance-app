@@ -4106,5 +4106,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-26T12:11:57.090Z"
+  },
+  {
+    "id": "1787746355021",
+    "date": "2026-08-26",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люби",
+    "amount": 22500,
+    "comment": "Шемерда розрахунок за 1 проєкт",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-26T12:12:35.021Z"
   }
 ]
