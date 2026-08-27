@@ -4145,5 +4145,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-27T08:33:20.914Z"
+  },
+  {
+    "id": "1787844153810",
+    "date": "2026-08-27",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Оксани",
+    "amount": 30000,
+    "comment": "20 ставка і 10 з геологів",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-27T15:22:33.810Z"
   }
 ]
