@@ -4184,5 +4184,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-28T09:04:37.232Z"
+  },
+  {
+    "id": "1787917273978",
+    "date": "2026-08-28",
+    "person": "Люда",
+    "type": "income",
+    "category": "Доплата за проєкт Левчук",
+    "amount": 49000,
+    "comment": "Доплата",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-28T11:41:13.978Z"
   }
 ]
