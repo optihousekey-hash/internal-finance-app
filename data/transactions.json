@@ -4158,5 +4158,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-27T15:22:33.810Z"
+  },
+  {
+    "id": "1787907742961",
+    "date": "2026-08-28",
+    "person": "Люда",
+    "type": "income",
+    "category": "Оплата за км проєк Дунаївці Віктор",
+    "amount": 16960,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-28T09:02:22.961Z"
   }
 ]
