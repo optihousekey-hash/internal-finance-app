@@ -4223,5 +4223,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-28T11:46:08.524Z"
+  },
+  {
+    "id": "1787917606532",
+    "date": "2026-08-28",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдан",
+    "amount": 20000,
+    "comment": "За присяжних, малюта , дзюба",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-28T11:46:46.532Z"
   }
 ]
