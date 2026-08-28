@@ -4236,5 +4236,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-28T11:46:46.532Z"
+  },
+  {
+    "id": "1787929348805",
+    "date": "2026-08-28",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата Вітя Шемерда за посадку",
+    "amount": 5000,
+    "comment": "100$ і 500 грн",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-28T15:02:28.805Z"
   }
 ]
