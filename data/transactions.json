@@ -4171,5 +4171,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-28T09:02:22.961Z"
+  },
+  {
+    "id": "1787907877232",
+    "date": "2026-08-28",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Оплата за Км Роману за Віктора Карпейчик",
+    "amount": 14000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-28T09:04:37.232Z"
   }
 ]
