@@ -4249,5 +4249,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-28T15:02:28.805Z"
+  },
+  {
+    "id": "1787988047584",
+    "date": "2026-08-29",
+    "person": "Катя",
+    "type": "income",
+    "category": "За дизайн-проєкт",
+    "amount": 25000,
+    "comment": "Бодик Ірина",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-29T07:20:47.584Z"
   }
 ]
