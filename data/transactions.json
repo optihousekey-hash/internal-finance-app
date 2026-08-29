@@ -4288,5 +4288,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-29T08:58:14.505Z"
+  },
+  {
+    "id": "1788018250605",
+    "date": "2026-08-29",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 25000,
+    "comment": "Доплата за проєкт дизайн Ірина",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-29T15:44:10.605Z"
   }
 ]
