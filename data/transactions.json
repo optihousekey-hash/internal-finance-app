@@ -4275,5 +4275,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-29T08:17:18.039Z"
+  },
+  {
+    "id": "1787993894505",
+    "date": "2026-08-29",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід від діяльності",
+    "amount": 26000,
+    "comment": "Люби дах",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-29T08:58:14.505Z"
   }
 ]
