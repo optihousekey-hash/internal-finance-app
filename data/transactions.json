@@ -4262,5 +4262,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-29T07:20:47.584Z"
+  },
+  {
+    "id": "1787991438039",
+    "date": "2026-08-29",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люби",
+    "amount": 2600,
+    "comment": "Шемерда посадка",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-29T08:17:18.039Z"
   }
 ]
