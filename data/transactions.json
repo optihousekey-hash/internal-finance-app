@@ -4314,5 +4314,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-31T09:59:41.343Z"
+  },
+  {
+    "id": "1788183351329",
+    "date": "2026-08-31",
+    "person": "Катя",
+    "type": "expense",
+    "category": "оплата чатинами",
+    "amount": 8009,
+    "comment": "меблі та техніка",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-31T13:35:51.329Z"
   }
 ]
