@@ -4301,5 +4301,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-31T09:58:17.780Z"
+  },
+  {
+    "id": "1788170381343",
+    "date": "2026-08-31",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Люди",
+    "amount": 13000,
+    "comment": "З Люби даху",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-08-31T09:59:41.343Z"
   }
 ]
