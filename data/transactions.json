@@ -4353,5 +4353,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-01T06:20:56.827Z"
+  },
+  {
+    "id": "1788249346337",
+    "date": "2026-09-01",
+    "person": "Люда",
+    "type": "income",
+    "category": "Документи",
+    "amount": 10000,
+    "comment": "Малюта за дозвіл",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-01T07:55:46.337Z"
   }
 ]
