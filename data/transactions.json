@@ -4353,5 +4353,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-08-31T13:52:43.968Z"
+  },
+  {
+    "id": "1788243656827",
+    "date": "2026-09-01",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Роману",
+    "amount": 14000,
+    "comment": "Оплата за км Карпейчик",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-01T06:20:56.827Z"
   }
 ]
