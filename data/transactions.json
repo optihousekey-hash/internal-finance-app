@@ -4392,5 +4392,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-02T10:58:08.394Z"
+  },
+  {
+    "id": "1788360935473",
+    "date": "2026-09-02",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 2000,
+    "comment": "Оплата за консультацію Чорний острів",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-02T14:55:35.473Z"
   }
 ]
