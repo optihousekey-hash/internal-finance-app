@@ -4405,5 +4405,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-02T14:55:35.473Z"
+  },
+  {
+    "id": "1788419374204",
+    "date": "2026-09-03",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Саші геодезія",
+    "amount": 6000,
+    "comment": "Вася попросив щоб дала",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-03T07:09:34.204Z"
   }
 ]
