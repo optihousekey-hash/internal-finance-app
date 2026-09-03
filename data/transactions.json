@@ -4418,5 +4418,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-03T07:09:34.204Z"
+  },
+  {
+    "id": "1788423909013",
+    "date": "2026-09-03",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 15000,
+    "comment": "Оплата Роману за Левчук",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-03T08:25:09.013Z"
   }
 ]
