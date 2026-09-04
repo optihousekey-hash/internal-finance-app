@@ -4431,5 +4431,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-03T08:25:09.013Z"
+  },
+  {
+    "id": "1788529261817",
+    "date": "2026-09-04",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Обслуговування",
+    "amount": 150,
+    "comment": "Бізнес приват",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-04T13:41:01.817Z"
   }
 ]
