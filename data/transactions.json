@@ -4444,5 +4444,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-04T13:41:01.817Z"
+  },
+  {
+    "id": "1788775860936",
+    "date": "2026-09-07",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Маиеріал",
+    "amount": 160,
+    "comment": "Вода",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-07T10:11:00.936Z"
   }
 ]
