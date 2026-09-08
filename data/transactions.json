@@ -4470,5 +4470,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-08T14:40:34.978Z"
+  },
+  {
+    "id": "1788878467789",
+    "date": "2026-09-08",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 1000,
+    "comment": "Вадіму за бензин",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-08T14:41:07.790Z"
   }
 ]
