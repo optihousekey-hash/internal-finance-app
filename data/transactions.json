@@ -4483,5 +4483,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-08T14:41:07.790Z"
+  },
+  {
+    "id": "1788956900083",
+    "date": "2026-09-09",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдана",
+    "amount": 10000,
+    "comment": "Документи Малюта Наталія і за переробку Кучерук",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-09T12:28:20.083Z"
   }
 ]
