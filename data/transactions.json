@@ -4509,5 +4509,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-11T08:09:00.970Z"
+  },
+  {
+    "id": "1789119269499",
+    "date": "2026-09-11",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Сашка",
+    "amount": 10000,
+    "comment": "За відео",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-11T09:34:29.499Z"
   }
 ]
