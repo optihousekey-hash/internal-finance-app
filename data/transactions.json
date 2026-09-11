@@ -4548,5 +4548,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-11T13:09:59.658Z"
+  },
+  {
+    "id": "1789133047650",
+    "date": "2026-09-11",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт км",
+    "amount": 8000,
+    "comment": "Євген Камянець (на карту люді)",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-11T13:24:07.650Z"
   }
 ]
