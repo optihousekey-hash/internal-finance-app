@@ -4522,5 +4522,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-11T09:34:29.499Z"
+  },
+  {
+    "id": "1789130289575",
+    "date": "2026-09-11",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 30000,
+    "comment": "ескізний Черепашук Сергій",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-11T12:38:09.575Z"
   }
 ]
