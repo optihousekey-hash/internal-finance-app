@@ -4496,5 +4496,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-09T12:28:20.083Z"
+  },
+  {
+    "id": "1789114140970",
+    "date": "2026-09-11",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 48000,
+    "comment": "Оплата за проєкт Гречани",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-11T08:09:00.970Z"
   }
 ]
