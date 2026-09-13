@@ -4561,5 +4561,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-11T13:24:07.650Z"
+  },
+  {
+    "id": "1789293353274",
+    "date": "2026-09-13",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 35000,
+    "comment": "Оплата Міла мед за проєкт",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-13T09:55:53.274Z"
   }
 ]
