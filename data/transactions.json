@@ -4574,5 +4574,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-13T09:55:53.274Z"
+  },
+  {
+    "id": "1789374837685",
+    "date": "2026-09-14",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 7500,
+    "comment": "Оплата по акту за експертизу",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-14T08:33:57.685Z"
   }
 ]
