@@ -4600,5 +4600,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-15T11:56:01.941Z"
+  },
+  {
+    "id": "1789485239758",
+    "date": "2026-09-15",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Поповнення моб",
+    "amount": 440,
+    "comment": "Промислові",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-15T15:13:59.758Z"
   }
 ]
