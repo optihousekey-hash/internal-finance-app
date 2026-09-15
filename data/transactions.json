@@ -4587,5 +4587,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-14T08:33:57.685Z"
+  },
+  {
+    "id": "1789473361941",
+    "date": "2026-09-15",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 3000,
+    "comment": "Олегу виконробу за Васю на городок за плитку",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-15T11:56:01.941Z"
   }
 ]
