@@ -4613,5 +4613,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-15T15:13:59.758Z"
+  },
+  {
+    "id": "1789547241175",
+    "date": "2026-09-16",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 5000,
+    "comment": "Оплата за пожежну проєкт Міла мед",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-16T08:27:21.175Z"
   }
 ]
