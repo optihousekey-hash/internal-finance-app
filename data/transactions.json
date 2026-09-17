@@ -4626,5 +4626,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-16T08:27:21.175Z"
+  },
+  {
+    "id": "1789627603723",
+    "date": "2026-09-17",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Васі",
+    "amount": 16500,
+    "comment": "За міламед",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-17T06:46:43.723Z"
   }
 ]
