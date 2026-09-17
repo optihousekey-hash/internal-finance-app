@@ -4652,5 +4652,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-17T09:04:07.977Z"
+  },
+  {
+    "id": "1789636068709",
+    "date": "2026-09-17",
+    "person": "Катя",
+    "type": "income",
+    "category": "Поповнення балансу з доходу",
+    "amount": 6000,
+    "comment": "Ярмолинці розрахунок за покрівлю",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-17T09:07:48.709Z"
   }
 ]
