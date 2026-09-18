@@ -4665,5 +4665,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-17T09:07:48.709Z"
+  },
+  {
+    "id": "1789718609277",
+    "date": "2026-09-18",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 6000,
+    "comment": "Оплата Роману за КМ Євдокимов",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-18T08:03:29.277Z"
   }
 ]
