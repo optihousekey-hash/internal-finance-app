@@ -4730,5 +4730,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-22T12:50:21.758Z"
+  },
+  {
+    "id": "1790081457781",
+    "date": "2026-09-22",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Оренда і комунальні",
+    "amount": 1,
+    "comment": "19000  грн",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-22T12:50:57.781Z"
   }
 ]
