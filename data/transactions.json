@@ -4743,5 +4743,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-22T12:50:57.781Z"
+  },
+  {
+    "id": "1790081478269",
+    "date": "2026-09-22",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Бронь",
+    "amount": 1,
+    "comment": "Вова",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-22T12:51:18.269Z"
   }
 ]
