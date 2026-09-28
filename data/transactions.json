@@ -4860,5 +4860,18 @@
     "transferFrom": "optihouse",
     "transferTo": "katya",
     "createdAt": "2026-09-27T12:43:09.903Z"
+  },
+  {
+    "id": "1790577537150",
+    "date": "2026-09-28",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Витрата",
+    "amount": 400,
+    "comment": "Поповнення рахунку",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-28T06:38:57.150Z"
   }
 ]
