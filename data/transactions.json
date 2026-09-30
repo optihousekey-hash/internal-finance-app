@@ -4899,5 +4899,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-30T08:07:30.953Z"
+  },
+  {
+    "id": "1790760125466",
+    "date": "2026-09-30",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з діяльності",
+    "amount": 4500,
+    "comment": "Попелюшко Вадим з даху",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-30T09:22:05.466Z"
   }
 ]
