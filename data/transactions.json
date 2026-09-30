@@ -4886,5 +4886,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-28T17:19:16.323Z"
+  },
+  {
+    "id": "1790755650953",
+    "date": "2026-09-30",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Повернення Лотовського",
+    "amount": 20000,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-30T08:07:30.953Z"
   }
 ]
