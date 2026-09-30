@@ -4925,5 +4925,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-09-30T10:44:12.413Z"
+  },
+  {
+    "id": "1790766864357",
+    "date": "2026-09-30",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні витрати",
+    "amount": 260,
+    "comment": "Вода і оксана",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-09-30T11:14:24.357Z"
   }
 ]
