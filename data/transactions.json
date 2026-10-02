@@ -5003,5 +5003,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-02T12:31:35.075Z"
+  },
+  {
+    "id": "1790947269650",
+    "date": "2026-10-02",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдана",
+    "amount": 11300,
+    "comment": "Черепашук",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-02T13:21:09.650Z"
   }
 ]
