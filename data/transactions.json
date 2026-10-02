@@ -4977,5 +4977,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-02T09:15:21.270Z"
+  },
+  {
+    "id": "1790942762212",
+    "date": "2026-10-02",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 1800,
+    "comment": "Дохід з холодця за септик",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-02T12:06:02.212Z"
   }
 ]
