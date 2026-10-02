@@ -4990,5 +4990,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-02T12:06:02.212Z"
+  },
+  {
+    "id": "1790944295075",
+    "date": "2026-10-02",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 20000,
+    "comment": "Аванс Анні за Максима",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-02T12:31:35.075Z"
   }
 ]
