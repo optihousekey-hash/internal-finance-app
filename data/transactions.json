@@ -5042,5 +5042,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-05T11:34:31.698Z"
+  },
+  {
+    "id": "1791211827104",
+    "date": "2026-10-05",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 1000,
+    "comment": "Заробіток з землі Климашівка",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-05T14:50:27.104Z"
   }
 ]
