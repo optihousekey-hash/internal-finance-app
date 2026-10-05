@@ -5029,5 +5029,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-05T11:24:55.827Z"
+  },
+  {
+    "id": "1791200071698",
+    "date": "2026-10-05",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 13000,
+    "comment": "Туз Юлія",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-05T11:34:31.698Z"
   }
 ]
