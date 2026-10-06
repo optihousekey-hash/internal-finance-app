@@ -5055,5 +5055,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-05T14:50:27.104Z"
+  },
+  {
+    "id": "1791274114535",
+    "date": "2026-10-06",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт+геологія і геодезія",
+    "amount": 27000,
+    "comment": "Туз павло",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-06T08:08:34.535Z"
   }
 ]
