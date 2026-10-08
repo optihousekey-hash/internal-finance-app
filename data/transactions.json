@@ -5133,5 +5133,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-08T11:04:33.168Z"
+  },
+  {
+    "id": "1791472655096",
+    "date": "2026-10-08",
+    "person": "Катя",
+    "type": "income",
+    "category": "Вася віддав",
+    "amount": 1000,
+    "comment": "Позика його",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-08T15:17:35.096Z"
   }
 ]
