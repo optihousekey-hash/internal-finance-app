@@ -5146,5 +5146,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-08T15:17:35.096Z"
+  },
+  {
+    "id": "1791473600523",
+    "date": "2026-10-08",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з діяльності",
+    "amount": 1700,
+    "comment": "Теплик",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-08T15:33:20.523Z"
   }
 ]
