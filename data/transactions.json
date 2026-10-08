@@ -5107,5 +5107,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-07T13:15:09.081Z"
+  },
+  {
+    "id": "1791454020261",
+    "date": "2026-10-08",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Доставка води",
+    "amount": 160,
+    "comment": "",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-08T10:07:00.261Z"
   }
 ]
