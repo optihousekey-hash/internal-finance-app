@@ -5120,5 +5120,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-08T10:07:00.261Z"
+  },
+  {
+    "id": "1791457473168",
+    "date": "2026-10-08",
+    "person": "Катя",
+    "type": "income",
+    "category": "Офіс",
+    "amount": 720,
+    "comment": "Папка і файлики",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-08T11:04:33.168Z"
   }
 ]
