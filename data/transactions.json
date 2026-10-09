@@ -5172,5 +5172,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-09T10:06:18.977Z"
+  },
+  {
+    "id": "1791553741886",
+    "date": "2026-10-09",
+    "person": "Катя",
+    "type": "expense",
+    "category": "оренда та бронь",
+    "amount": 1,
+    "comment": "бронь богдана 25000 і 17000 грн оренда",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-09T13:49:01.886Z"
   }
 ]
