@@ -5180,7 +5180,7 @@
     "type": "expense",
     "category": "оренда та бронь",
     "amount": 1,
-    "comment": "бронь богдана 25000 і 17000 грн оренда",
+    "comment": "бронь богдана 25000 і 17000 грн оренда з геологів",
     "balanceTarget": "optihouse",
     "transferFrom": null,
     "transferTo": null,
