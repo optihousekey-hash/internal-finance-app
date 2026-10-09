@@ -5185,5 +5185,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-09T13:49:01.886Z"
+  },
+  {
+    "id": "1791553888242",
+    "date": "2026-10-09",
+    "person": "КАтя",
+    "type": "income",
+    "category": "Подарок",
+    "amount": 600,
+    "comment": "Вася на каву",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-09T13:51:28.242Z"
   }
 ]
