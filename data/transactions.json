@@ -5198,5 +5198,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-09T13:51:28.242Z"
+  },
+  {
+    "id": "1791557625708",
+    "date": "2026-10-09",
+    "person": "Катя",
+    "type": "expense",
+    "category": "геодезія Саша",
+    "amount": 3000,
+    "comment": "за Туза",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-09T14:53:45.708Z"
   }
 ]
