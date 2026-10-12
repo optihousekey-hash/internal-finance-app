@@ -5224,5 +5224,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-12T08:20:33.904Z"
+  },
+  {
+    "id": "1791795109708",
+    "date": "2026-10-12",
+    "person": "катя",
+    "type": "income",
+    "category": "Дохід з діяльності",
+    "amount": 40000,
+    "comment": "погашення",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-12T08:51:49.708Z"
   }
 ]
