@@ -5237,5 +5237,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-12T08:51:49.708Z"
+  },
+  {
+    "id": "1791795230729",
+    "date": "2026-10-12",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дохід з діяльності",
+    "amount": 60000,
+    "comment": "адвіс",
+    "balanceTarget": "liuda",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-12T08:53:50.729Z"
   }
 ]
