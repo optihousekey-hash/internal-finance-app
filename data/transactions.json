@@ -5276,5 +5276,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-12T08:55:30.685Z"
+  },
+  {
+    "id": "1791798174072",
+    "date": "2026-10-12",
+    "person": "КатЯ",
+    "type": "income",
+    "category": "Офісні витрати",
+    "amount": 4645,
+    "comment": "Біндер і пружини",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-12T09:42:54.072Z"
   }
 ]
