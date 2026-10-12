@@ -5289,5 +5289,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-12T09:42:54.072Z"
+  },
+  {
+    "id": "1791817786272",
+    "date": "2026-10-12",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 11600,
+    "comment": "Зарплата з Перегінки",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-12T15:09:46.272Z"
   }
 ]
