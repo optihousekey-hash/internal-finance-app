@@ -5315,5 +5315,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-12T15:10:16.038Z"
+  },
+  {
+    "id": "1791817839169",
+    "date": "2026-10-12",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 5000,
+    "comment": "За Пепегінку",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-12T15:10:39.169Z"
   }
 ]
