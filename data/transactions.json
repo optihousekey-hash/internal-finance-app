@@ -5419,5 +5419,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-14T11:49:12.323Z"
+  },
+  {
+    "id": "1791980995751",
+    "date": "2026-10-14",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні витрати",
+    "amount": 150,
+    "comment": "Доставка",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-14T12:29:55.751Z"
   }
 ]
