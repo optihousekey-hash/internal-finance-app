@@ -5393,5 +5393,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-14T10:03:46.869Z"
+  },
+  {
+    "id": "1791976021685",
+    "date": "2026-10-14",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата з Гречан",
+    "amount": 600,
+    "comment": "",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-14T11:07:01.685Z"
   }
 ]
