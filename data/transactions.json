@@ -5380,5 +5380,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-14T10:01:59.236Z"
+  },
+  {
+    "id": "1791972226869",
+    "date": "2026-10-14",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офіс",
+    "amount": 1,
+    "comment": "Оренда офісу 10к",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-14T10:03:46.869Z"
   }
 ]
