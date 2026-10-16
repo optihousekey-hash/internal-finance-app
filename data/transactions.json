@@ -5471,5 +5471,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-14T15:23:20.692Z"
+  },
+  {
+    "id": "1792142654220",
+    "date": "2026-10-16",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп оксани",
+    "amount": 8000,
+    "comment": "Геологи",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-16T09:24:14.220Z"
   }
 ]
