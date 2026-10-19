@@ -5497,5 +5497,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-16T13:50:03.133Z"
+  },
+  {
+    "id": "1792413226128",
+    "date": "2026-10-19",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Богдану",
+    "amount": 3000,
+    "comment": "Доплата за підвал Малюта",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-19T12:33:46.128Z"
   }
 ]
