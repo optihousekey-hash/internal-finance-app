@@ -5523,5 +5523,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-19T12:35:39.553Z"
+  },
+  {
+    "id": "1792490697543",
+    "date": "2026-10-20",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Відправка проєкту",
+    "amount": 150,
+    "comment": "Карпейчик",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-20T10:04:57.543Z"
   }
 ]
