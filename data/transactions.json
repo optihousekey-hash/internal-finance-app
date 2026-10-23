@@ -5562,5 +5562,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-22T12:40:14.659Z"
+  },
+  {
+    "id": "1792745547033",
+    "date": "2026-10-23",
+    "person": "Люда",
+    "type": "income",
+    "category": "Дохід",
+    "amount": 30000,
+    "comment": "Оплата за проект Ступницький",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-23T08:52:27.033Z"
   }
 ]
