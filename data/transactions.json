@@ -5601,5 +5601,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-26T08:22:41.800Z"
+  },
+  {
+    "id": "1793039546636",
+    "date": "2026-10-26",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата Роману",
+    "amount": 27300,
+    "comment": "Оплата за КБ Ступницького",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-26T18:32:26.636Z"
   }
 ]
