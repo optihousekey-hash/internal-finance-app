@@ -5614,5 +5614,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-26T18:32:26.636Z"
+  },
+  {
+    "id": "1793039593182",
+    "date": "2026-10-26",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 44000,
+    "comment": "Оплата за проект Данііл",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-26T18:33:13.182Z"
   }
 ]
