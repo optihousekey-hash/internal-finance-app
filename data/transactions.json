@@ -5588,5 +5588,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-25T14:33:16.474Z"
+  },
+  {
+    "id": "1793002961800",
+    "date": "2026-10-26",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Телефон",
+    "amount": 450,
+    "comment": "Оплата за телефон",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-26T08:22:41.800Z"
   }
 ]
