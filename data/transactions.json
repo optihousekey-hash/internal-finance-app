@@ -5640,5 +5640,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-27T08:14:53.982Z"
+  },
+  {
+    "id": "1793094821382",
+    "date": "2026-10-27",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 5000,
+    "comment": "Андрію за септик Присяжного",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-27T09:53:41.382Z"
   }
 ]
