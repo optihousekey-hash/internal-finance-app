@@ -5653,5 +5653,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-27T09:53:41.382Z"
+  },
+  {
+    "id": "1793174035340",
+    "date": "2026-10-28",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Реклама",
+    "amount": 1000,
+    "comment": "Гугл адс",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-28T07:53:55.340Z"
   }
 ]
