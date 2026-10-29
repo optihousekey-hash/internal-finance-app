@@ -5666,5 +5666,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-28T07:53:55.340Z"
+  },
+  {
+    "id": "1793284903493",
+    "date": "2026-10-29",
+    "person": "Катя",
+    "type": "income",
+    "category": "Дозвіл",
+    "amount": 10000,
+    "comment": "Гурський",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-29T14:41:43.493Z"
   }
 ]
