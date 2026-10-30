@@ -5679,5 +5679,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-29T14:41:43.493Z"
+  },
+  {
+    "id": "1793352916442",
+    "date": "2026-10-30",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Матеріал",
+    "amount": 100,
+    "comment": "Цукерки",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-30T09:35:16.442Z"
   }
 ]
