@@ -5731,5 +5731,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-31T09:51:58.576Z"
+  },
+  {
+    "id": "1793440411741",
+    "date": "2026-10-31",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Оксана",
+    "amount": 23000,
+    "comment": "За жовтень",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-31T09:53:31.741Z"
   }
 ]
