@@ -5718,5 +5718,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-30T13:32:45.534Z"
+  },
+  {
+    "id": "1793440318576",
+    "date": "2026-10-31",
+    "person": "Катя",
+    "type": "income",
+    "category": "Геологія",
+    "amount": 7500,
+    "comment": "Черепашук сергій",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-10-31T09:51:58.576Z"
   }
 ]
