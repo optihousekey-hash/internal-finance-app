@@ -5757,5 +5757,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-02T10:12:46.964Z"
+  },
+  {
+    "id": "1793625295458",
+    "date": "2026-11-02",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Реклама",
+    "amount": 1200,
+    "comment": "На тг пост хмельниц свив",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-02T13:14:55.458Z"
   }
 ]
