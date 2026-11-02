@@ -5783,5 +5783,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-02T19:07:00.674Z"
+  },
+  {
+    "id": "1793647214624",
+    "date": "2026-11-02",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 68000,
+    "comment": "Аванс за дендропарк",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-02T19:20:14.624Z"
   }
 ]
