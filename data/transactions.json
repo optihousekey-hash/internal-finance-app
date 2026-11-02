@@ -5744,5 +5744,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-10-31T09:53:31.741Z"
+  },
+  {
+    "id": "1793614366964",
+    "date": "2026-11-02",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні витрати",
+    "amount": 2500,
+    "comment": "Епіцентр каски",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-02T10:12:46.964Z"
   }
 ]
