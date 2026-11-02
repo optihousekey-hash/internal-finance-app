@@ -5770,5 +5770,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-02T13:14:55.458Z"
+  },
+  {
+    "id": "1793646420674",
+    "date": "2026-11-02",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 150,
+    "comment": "Обслуговування карти",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-02T19:07:00.674Z"
   }
 ]
