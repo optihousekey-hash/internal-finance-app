@@ -5835,5 +5835,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-05T12:21:54.451Z"
+  },
+  {
+    "id": "1793886260819",
+    "date": "2026-11-05",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 3560,
+    "comment": "Оплата Вадіму за консультацію дозволу",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-05T13:44:20.819Z"
   }
 ]
