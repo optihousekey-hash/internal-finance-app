@@ -5822,5 +5822,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-05T12:20:43.638Z"
+  },
+  {
+    "id": "1793881314451",
+    "date": "2026-11-05",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Геодезія",
+    "amount": 6000,
+    "comment": "Григорьєв даня",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-05T12:21:54.451Z"
   }
 ]
