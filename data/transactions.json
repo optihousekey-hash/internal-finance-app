@@ -5874,5 +5874,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-06T14:52:04.230Z"
+  },
+  {
+    "id": "1793976785758",
+    "date": "2026-11-06",
+    "person": "Катя",
+    "type": "income",
+    "category": "Реклама",
+    "amount": 51000,
+    "comment": "З терплика",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-06T14:53:05.758Z"
   }
 ]
