@@ -5861,5 +5861,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-06T13:38:29.562Z"
+  },
+  {
+    "id": "1793976724230",
+    "date": "2026-11-06",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 20000,
+    "comment": "Оплата за робочий проєкт Роману Тузи",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-06T14:52:04.230Z"
   }
 ]
