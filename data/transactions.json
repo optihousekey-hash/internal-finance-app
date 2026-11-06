@@ -5848,5 +5848,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-05T13:44:20.819Z"
+  },
+  {
+    "id": "1793972309562",
+    "date": "2026-11-06",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 16000,
+    "comment": "Оплата за Проєкт Богдану Гурський і черапащук",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-06T13:38:29.562Z"
   }
 ]
