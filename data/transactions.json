@@ -5887,5 +5887,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-06T14:53:05.758Z"
+  },
+  {
+    "id": "1794232766255",
+    "date": "2026-11-09",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офісні витрати",
+    "amount": 500,
+    "comment": "Пластикові пружини",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-09T13:59:26.255Z"
   }
 ]
