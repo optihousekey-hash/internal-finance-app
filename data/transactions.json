@@ -5926,5 +5926,18 @@
     "transferFrom": "optihouse",
     "transferTo": "katya",
     "createdAt": "2026-11-09T14:31:36.890Z"
+  },
+  {
+    "id": "1794299133862",
+    "date": "2026-11-10",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Поповнення",
+    "amount": 420,
+    "comment": "Мобільний промислові",
+    "balanceTarget": "katya",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-10T08:25:33.862Z"
   }
 ]
