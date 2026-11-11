@@ -5991,5 +5991,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-11T13:19:14.280Z"
+  },
+  {
+    "id": "1794421275019",
+    "date": "2026-11-11",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 1500,
+    "comment": "Оплата за підсобника на Дендропарк Олегу",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-11T18:21:15.019Z"
   }
 ]
