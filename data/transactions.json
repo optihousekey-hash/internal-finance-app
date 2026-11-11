@@ -6004,5 +6004,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-11T18:21:15.019Z"
+  },
+  {
+    "id": "1794421317883",
+    "date": "2026-11-11",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Позика Васьові",
+    "amount": 25000,
+    "comment": "Вадіму зп",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-11T18:21:57.883Z"
   }
 ]
