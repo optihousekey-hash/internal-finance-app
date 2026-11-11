@@ -5965,5 +5965,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-11T11:10:35.694Z"
+  },
+  {
+    "id": "1794397230136",
+    "date": "2026-11-11",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 83000,
+    "comment": "Оплата за проект Максім",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-11T11:40:30.136Z"
   }
 ]
