@@ -5978,5 +5978,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-11T11:40:30.136Z"
+  },
+  {
+    "id": "1794403154280",
+    "date": "2026-11-11",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Аня",
+    "amount": 65000,
+    "comment": "За худзік максіма",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-11T13:19:14.280Z"
   }
 ]
