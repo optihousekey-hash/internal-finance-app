@@ -6056,5 +6056,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-12T07:28:09.970Z"
+  },
+  {
+    "id": "1794475600365",
+    "date": "2026-11-12",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 73400,
+    "comment": "Оплата від Максима струзька",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-12T09:26:40.365Z"
   }
 ]
