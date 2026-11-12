@@ -6032,19 +6032,6 @@
     "createdAt": "2026-11-11T18:22:21.328Z"
   },
   {
-    "id": "1794421342839",
-    "date": "2026-11-11",
-    "person": "Люда",
-    "type": "expense",
-    "category": "Позика Васьові",
-    "amount": 2000,
-    "comment": "Дав Олегу діта",
-    "balanceTarget": "optihouse",
-    "transferFrom": null,
-    "transferTo": null,
-    "createdAt": "2026-11-11T18:22:22.839Z"
-  },
-  {
     "id": "1794468489970",
     "date": "2026-11-12",
     "person": "Люда",
