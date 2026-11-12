@@ -6082,5 +6082,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-12T09:29:12.444Z"
+  },
+  {
+    "id": "1794475892026",
+    "date": "2026-11-12",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зп Оксані",
+    "amount": 3000,
+    "comment": "За Дендропарк",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-12T09:31:32.026Z"
   }
 ]
