@@ -6069,5 +6069,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-12T09:26:40.365Z"
+  },
+  {
+    "id": "1794475752444",
+    "date": "2026-11-12",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Зарплата",
+    "amount": 121260,
+    "comment": "Віддали Васьові за Дендропарк",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-12T09:29:12.444Z"
   }
 ]
