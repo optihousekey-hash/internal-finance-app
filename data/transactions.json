@@ -6108,5 +6108,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-13T09:07:58.301Z"
+  },
+  {
+    "id": "1794561212944",
+    "date": "2026-11-13",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Офіс оренда",
+    "amount": 1,
+    "comment": "Комунальні і шкаф 1тис грн",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-13T09:13:32.944Z"
   }
 ]
