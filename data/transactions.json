@@ -6121,5 +6121,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-13T09:13:32.944Z"
+  },
+  {
+    "id": "1794561613921",
+    "date": "2026-11-13",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Оренда",
+    "amount": 1,
+    "comment": "8500 грн оренда офісу грудень",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-13T09:20:13.921Z"
   }
 ]
