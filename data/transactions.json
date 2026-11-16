@@ -6225,5 +6225,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-16T14:30:19.055Z"
+  },
+  {
+    "id": "1794855215600",
+    "date": "2026-11-16",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Податок",
+    "amount": 18600,
+    "comment": "Податок за 3 квартал",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-16T18:53:35.600Z"
   }
 ]
