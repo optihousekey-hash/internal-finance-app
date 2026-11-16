@@ -6160,5 +6160,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-16T11:36:10.826Z"
+  },
+  {
+    "id": "1794829363031",
+    "date": "2026-11-16",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Податки",
+    "amount": 470,
+    "comment": "Військовий збір",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-16T11:42:43.031Z"
   }
 ]
