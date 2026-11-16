@@ -6212,5 +6212,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-16T14:22:57.655Z"
+  },
+  {
+    "id": "1794839419055",
+    "date": "2026-11-16",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 15000,
+    "comment": "Райський дмитро",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-16T14:30:19.055Z"
   }
 ]
