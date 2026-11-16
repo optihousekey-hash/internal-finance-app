@@ -6186,5 +6186,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-16T13:16:05.588Z"
+  },
+  {
+    "id": "1794835083860",
+    "date": "2026-11-16",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 8051,
+    "comment": "Григоров на карту Люда",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-16T13:18:03.860Z"
   }
 ]
