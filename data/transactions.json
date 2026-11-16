@@ -6199,5 +6199,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-16T13:18:03.860Z"
+  },
+  {
+    "id": "1794838977655",
+    "date": "2026-11-16",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп оксана",
+    "amount": 4500,
+    "comment": "За ту суму що заплатили раніше 100$",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-16T14:22:57.655Z"
   }
 ]
