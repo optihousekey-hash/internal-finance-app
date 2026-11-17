@@ -6238,5 +6238,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-16T18:53:35.600Z"
+  },
+  {
+    "id": "1794909634455",
+    "date": "2026-11-17",
+    "person": "Люда",
+    "type": "income",
+    "category": "Зарплата",
+    "amount": 4000,
+    "comment": "Галя дала за клієнтів",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-17T10:00:34.455Z"
   }
 ]
