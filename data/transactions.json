@@ -6244,7 +6244,7 @@
     "date": "2026-11-17",
     "person": "Люда",
     "type": "income",
-    "category": "Зарплата",
+    "category": "Дохід з діяльності",
     "amount": 4000,
     "comment": "Галя дала за клієнтів",
     "balanceTarget": "optihouse",
