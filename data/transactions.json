@@ -6251,5 +6251,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-17T10:00:34.455Z"
+  },
+  {
+    "id": "1795172034737",
+    "date": "2026-11-20",
+    "person": "Катя",
+    "type": "income",
+    "category": "Проєкт",
+    "amount": 20000,
+    "comment": "Вишинський Віталій",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-20T10:53:54.737Z"
   }
 ]
