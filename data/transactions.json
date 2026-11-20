@@ -6277,5 +6277,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-20T15:21:41.443Z"
+  },
+  {
+    "id": "1795188336467",
+    "date": "2026-11-20",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп оксана",
+    "amount": 1000,
+    "comment": "Вишневський віталій",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-20T15:25:36.467Z"
   }
 ]
