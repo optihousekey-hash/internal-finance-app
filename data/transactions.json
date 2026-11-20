@@ -6264,5 +6264,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-20T10:53:54.737Z"
+  },
+  {
+    "id": "1795188101443",
+    "date": "2026-11-20",
+    "person": "Катя",
+    "type": "expense",
+    "category": "Зп Богдана",
+    "amount": 17000,
+    "comment": "За григорова і райського",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-20T15:21:41.443Z"
   }
 ]
