@@ -6290,5 +6290,18 @@
     "transferFrom": null,
     "transferTo": null,
     "createdAt": "2026-11-20T15:25:36.467Z"
+  },
+  {
+    "id": "1795276027904",
+    "date": "2026-11-21",
+    "person": "Люда",
+    "type": "expense",
+    "category": "Матеріали",
+    "amount": 500,
+    "comment": "Бумага і хімія",
+    "balanceTarget": "optihouse",
+    "transferFrom": null,
+    "transferTo": null,
+    "createdAt": "2026-11-21T15:47:07.904Z"
   }
 ]
